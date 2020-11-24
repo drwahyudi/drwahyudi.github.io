@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Earth water air and fire"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donny Rio Wahyudi"
-description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate. Don't call me a geomorphologist yet, because sometimes I still confused by what I am studying now."
+description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Donny Rio Wahyudi"
   avatar           : "drwahyudi.github.io/images/2.jpg"
-  bio              : "I am a **geologist** whose now studying **geomorphology** in the University of Edinburgh. I am interested at **earth's landscapes** and their interaction with **surface processes, tectonic and climate**. Don't call me a geomorphologist yet, because sometimes I still confused by what I am studying now."
+  bio              : "I am a **geologist** whose now studying **geomorphology** in the University of Edinburgh. I am interested at **earth's landscapes** and their interaction with **surface processes, tectonic and climate**."
   location         : "Edinburgh, UK"
-  email            : "donny.wahyudi@ed.ac.uk"
+  email            : #"donny.wahyudi@ed.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:donny.wahyudi@ed.ac.uk"
+      url: "mailto:donny.wahyudi@ed.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
