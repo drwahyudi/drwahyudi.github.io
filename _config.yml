@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Donny Rio Wahyudi"
+description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate. Don't call me a geomorphologist yet, because sometimes I still confused by what I am studying now."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : donnyriow
 facebook:
   username               :
   app_id                 :
@@ -93,21 +93,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Donny Rio Wahyudi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a **geologist** whose now studying **geomorphology** in the University of Edinburgh. I am interested at **earth's landscapes** and their interaction with **surface processes, tectonic and climate**. Don't call me a geomorphologist yet, because sometimes I still confused by what I am studying now."
+  location         : "Edinburgh, UK"
+  email            : "donny.wahyudi@ed.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:donny.wahyudi@ed.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/donnyriow"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
