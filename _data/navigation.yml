@@ -9,6 +9,6 @@ main:
    - title: "Sample Collections"
      url: /collection-archive/
    - title: "CV"
-     url: https://drwahyudi.github.io/cv/
+     url: "https://drwahyudi.github.io/cv/"
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
