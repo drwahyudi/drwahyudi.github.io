@@ -1,4 +1,9 @@
+---
+filename: _pages/CV.md
 permalink: /CV/
+---
+
+
 
 Donny Rio Wahyudi
 
