@@ -9,6 +9,6 @@ main:
    - title: "Sample Collections"
      url: /collection-archive/
    - title: "CV"
-     url: <a href="https://drwahyudi.github.io/cv/" target="_blank">CV</a>
+     url: [CV]("https://drwahyudi.github.io/cv/"){:target="_blank"}
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
