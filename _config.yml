@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Earth, water, air, and fire"
+title                    : "Land, water, air, and fire"
 title_separator          : "-"
-subtitle                 : 4.5 billion years old planet. Still evolving.
+subtitle                 : Earth, 4.5 billion years old planet. Still evolving.
 name                     : "Donny Rio Wahyudi"
 description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -146,11 +146,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-include: ["_pages"]
+
 # Reading Files
 include:
   - .htaccess
-  #- _pages
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
