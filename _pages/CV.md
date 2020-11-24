@@ -3,7 +3,14 @@ filename: _pages/CV.md
 permalink: /CV/
 ---
 
-
+defaults:
+   _pages
+  - scope:
+      path: "/CV/"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 Donny Rio Wahyudi
 
