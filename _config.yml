@@ -1,3 +1,11 @@
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /images/salis (2).jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+      
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -290,10 +298,4 @@ defaults:
 #  image: "https://github.com/drwahyudi/drwahyudi.github.io/blob/master/images/salis%20(2).jpg"
 #  image_description: "Salisbury crags"
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /images/salis (2).jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+
