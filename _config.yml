@@ -14,10 +14,6 @@
 #remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-header:
-  image: /drwahyudi.github.io/images/siccarpoint.jpg
-  image_description: "Siccar point"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Land, water, air, and fire"
@@ -289,3 +285,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+header:
+  image: /drwahyudi.github.io/images/siccarpoint.jpg
+  image_description: "Siccar point"
