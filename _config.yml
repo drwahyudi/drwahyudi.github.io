@@ -287,5 +287,5 @@ defaults:
       related: true
 
 header:
-  image: /drwahyudi.github.io/images/siccarpoint.jpg
+  image: /images/siccarpoint.jpg
   image_description: "Siccar point"
