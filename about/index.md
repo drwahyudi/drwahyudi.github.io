@@ -6,5 +6,5 @@ excerpt: information about me
 image: /images/famimi1.jpg
 ---
 
-<h1>Lyfe</h1>
+<h2>Lyfe</h2>
 Currently I am an MPhil student at the University of Edinburgh. My research project here encompases the use of topographic analysis to reveal the progressive evolution of mountain building process in the Himalaya.
