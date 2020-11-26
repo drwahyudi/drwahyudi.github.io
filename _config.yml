@@ -293,9 +293,6 @@ defaults:
       comments: # true
       share: true
       related: true
-
-#header:
-#  image: "https://github.com/drwahyudi/drwahyudi.github.io/blob/master/images/salis%20(2).jpg"
-#  image_description: "Salisbury crags"
-
-
+      header:
+        image: /images/sapi.jpg
+        image_description: "The hairy coo"
