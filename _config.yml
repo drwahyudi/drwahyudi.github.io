@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donny Rio Wahyudi"
+title                    : "Earth"
 title_separator          : "-"
-subtitle                 : Earth, a 4.5 billion years old planet. Still evolving.
+subtitle                 : A 4.5 billion years old planet, still evolving.
 name                     : "Donny Rio Wahyudi"
 description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
 url                      : #"https://mmistakes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
