@@ -1,10 +1,10 @@
 ---
-Layout:
-Title:
-Date:
-excerpt:
+layout: single
+title: About me
+date: 26-11-2020
+excerpt: information about me
 image:
-  - feature:
+  - feature: 
   - teaser:
 ---
 
