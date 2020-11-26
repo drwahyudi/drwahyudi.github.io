@@ -285,5 +285,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      header:
-        image_description: "The hairy coo"
+   
