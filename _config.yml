@@ -1,11 +1,3 @@
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /images/salis (2).jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-      
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -24,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Land, water, air, and fire"
+title                    : "/images/sapi.jpg"
 title_separator          : "-"
 subtitle                 : Earth, a 4.5 billion years old planet. Still evolving.
 name                     : "Donny Rio Wahyudi"
@@ -294,5 +286,4 @@ defaults:
       share: true
       related: true
       header:
-        image: /images/sapi.jpg
         image_description: "The hairy coo"
