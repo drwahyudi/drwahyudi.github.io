@@ -3,9 +3,7 @@ layout: single
 title: About me
 date: 26-11-2020
 excerpt: information about me
-image:
-  - feature: /images/famimi1.jpg
-  - teaser: /images/famimi.jpg
+image: /images/famimi1.jpg
 ---
 
 <h1>Lyfe</h1>
