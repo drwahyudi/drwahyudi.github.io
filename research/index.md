@@ -13,7 +13,7 @@ density (Dd), and mountain-front sinuosity (Smf)."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/padang/mappga.png
+  - image_path: /images/padang/mappga.PNG
     alt: "Slope stability"
     title: "Various Models of Slope Stability due to Earthquake Activity in Gunung Tigo, Padang Pariaman, West Sumatera, Indonesia"
     excerpt: "A project from my undergraduate degree: "
