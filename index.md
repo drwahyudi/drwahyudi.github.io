@@ -8,7 +8,7 @@ header:
     - label: "About me"
       url: /about/
     - label: "Research"
-      url: /_research/index.html
+      url: /research/
     #- label: "CV"
     #  url: "https://drwahyudi.github.io/cv"
 ---
