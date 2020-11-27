@@ -5,7 +5,7 @@ header:
   image: /images/churia.png
 excerpt: list of my work
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /images/clay.png
     alt: "West Sumatra tectonic activity"
     title: "Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra"
     excerpt: "This study aims to identify the level of tectonic activity in Padang Pariaman, West Sumatra by morphotectonic index analysis such as ; the stream-gradient index(SL), drainage basin asymmetry (Af), valley floor width–valley height ratio (Vf), drainage
