@@ -6,7 +6,7 @@ header:
   caption: "Siccar point"
   actions:
     - label: "About me"
-      url: "https://drwahyudi.github.io/about/"
+      url: /about/
     - label: "Research"
       url: "https://drwahyudi.github.io/collection-archive/"
     #- label: "CV"
