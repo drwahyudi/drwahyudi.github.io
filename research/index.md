@@ -17,6 +17,7 @@ density (Dd), and mountain-front sinuosity (Smf)."
     alt: "THimalayan frontal range topographic evolution"
     title: "Topographic analysis of the Himalayan frontal range"
     excerpt: "In this project, I use the topographic analysis to observe and infer thrust fold topographic evolution modulated by lateral rock advection in the frontal Himalaya."
+    url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
