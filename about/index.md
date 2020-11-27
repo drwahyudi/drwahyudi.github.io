@@ -5,6 +5,8 @@ date: 26-11-2020
 excerpt: information about me
 header:
   image: /images/famimi3.jpg
+  caption: "Me and my family in Loch Ness"
+
 ---
 
 <h2>Academic</h2>
