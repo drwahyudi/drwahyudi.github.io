@@ -24,5 +24,5 @@ I use quantitative methods to understand why the surface of the earth looks the 
 <img src="/images/1.jpg" alt="The Nepal fieldwork"/>
 *From front-to-back there are: Me, Emma, Mark, Mikael and a Baba who rows the boat. Hugh (my supervisor) sat in the front row.*
  
-In this picture, we were crossing the East Rapti river to collect the precious sand samples in the Churia range, a young elongated hill that built by the collision between the Indian and Asian tectonic plate! The fact that Churia range is a wild life conservative park is always thrills me for having a fieldwork in ‘Chitwan National Park’. There, we met a rhino, ridiculously beautiful birds, crocodiles and probably stalked by a tiger(s)?!
+In this picture, we were crossing the East Rapti river to collect the precious sand samples in the Churia range, a young elongated hill which built by the collision between the Indian and Asian tectonic plate! The fact that Churia range is a wild life conservative park is always thrills me for having a fieldwork in ‘Chitwan National Park’. There, we met a rhino, ridiculously beautiful birds, crocodiles and probably stalked by a tiger(s)?!
 We became leeches' (**not lychees**) lunch too!
