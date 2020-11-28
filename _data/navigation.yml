@@ -5,7 +5,7 @@ main:
    - title: "About"
      url: /drwahyudi.github.io/about/
    - title: "Blog Posts"
-     url: /year-archive/
+     url: /_posts/
    - title: "Research"
      url: /drwahyudi.github.io/research/
    - title: "CV"
