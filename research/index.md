@@ -2,7 +2,7 @@
 title: Research
 layout: splash
 header:
-  image: /images/churia1.png
+  image: /images/res.jpg
 excerpt: list of my work
 feature_row:
   - image_path: /images/clay.png
