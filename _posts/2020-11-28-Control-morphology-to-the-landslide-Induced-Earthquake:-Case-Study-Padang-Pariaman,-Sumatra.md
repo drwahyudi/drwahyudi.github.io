@@ -3,10 +3,6 @@ title: "First post!"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 **HELLO WORLD!!!**
