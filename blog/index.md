@@ -2,7 +2,7 @@
 title: Blog
 layout: posts
 permalink: /_posts/
-#entries_layout: grid
+entries_layout: grid
 #classes: wide
 author_profile: true
 header:
