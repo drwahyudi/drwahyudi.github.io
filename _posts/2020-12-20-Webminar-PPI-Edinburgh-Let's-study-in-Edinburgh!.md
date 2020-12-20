@@ -9,11 +9,10 @@ categories:
 #  - standard
 ---
 
-**HELLO WORLD!!!**
-I decided to start writing a blog on my own web page. I hope I am not too lazy to write my story here! 
+**Invited talk to the Indonesian Student Association in Edinburh webinar**
+On December 13, I had the honour to be invited for a talk provided by the Indonesian Student Association in Edinburh. However, the content of the talk was presented in Indonesian. To my fellow Indonesian brothers and sisters who are aiming to study abroad, especially in Edinburgh, you can find some inputs and tips about studying in Edinburgh. Pease enjoy. And, if there is any question you would like to ask me, feel free to email me by clicking the email label on the side tab. 
 
 
 
 
-
-{% include video id="WPT3p9yDsDU" provider="youtube" %} Tema edintalks: Hal-hal yang mendorong untuk studi di Edinburgh serta bagaimana cara meraihnya.
+{% include video id="WPT3p9yDsDU" provider="youtube" %} *Theme: Things which encourage me to study abroad in Edinburgh and how to achieve it.*
