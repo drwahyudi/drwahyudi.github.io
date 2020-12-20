@@ -4,10 +4,7 @@ title: "Control morphology to the landslide Induced Earthquake: Case Study Padan
 excerpt_separator: "<!--more-->"
 date: 20-12-2020
 excerpt: MPhil project
-tags:
-  - Post Formats
-  - readability
-  - standard
+
 ---
 
 <img src="/images/padang/lineament.PNG" alt="Lineament"/>, <img src="/images/padang/clay.PNG" alt="Alt text"/>, <img src="/images/padang/index.PNG" alt="Alt text"/>, <img src="/images/padang/5.jpg" alt="Alt text"/>
