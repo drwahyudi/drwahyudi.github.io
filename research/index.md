@@ -10,7 +10,7 @@ feature_row:
     title: "Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra"
     excerpt: "**A project from my undergraduate degree**: This study aims to identify the level of tectonic activity in Padang Pariaman, West Sumatra by morphotectonic index analysis such as ; the stream-gradient index(SL), drainage basin asymmetry (Af), valley floor width–valley height ratio (Vf), drainage
 density (Dd), and mountain-front sinuosity (Smf)."
-    url: "https://drwahyudi.github.io/post%20formats/Control-morphology-to-the-landslide-Induced-Earthquake-Case-Study-Padang-Pariaman,-Sumatra/"
+    url: "/ug/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/padang/mappga.PNG
