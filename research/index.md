@@ -21,13 +21,20 @@ density (Dd), and mountain-front sinuosity (Smf)."
     btn_class: "btn--primary"
     btn_label: "Read the article"
   - image_path: /images/chi/chi1.png
-    alt: "THimalayan frontal range topographic evolution"
+    alt: "Himalayan frontal range topographic evolution"
     title: "Topographic analysis of the Himalayan frontal range"
     excerpt: "In this project, I use the topographic analysis to observe and infer thrust fold topographic evolution modulated by lateral rock advection in the frontal Himalaya."
-    url: "/himalayan/mphil/"
+    url: "/himalayan/mphil/topo/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-      
+  - image_path: /images/pebbles2.jpg
+    alt: "Channels' evolution in Chitwan Dun, Nepal"
+    title: "Fluvial network evolution in Chitwan Dun: Overviews from pebbles' lithology and OSL dates"
+    excerpt: "In this project, I use pebbles' lithology and OSL dates to infer thrust fold evolution in the frontal Himalaya."
+    url: "/himalayan/mphil/net/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+            
 ---
 
 {% include feature_row %}
