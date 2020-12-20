@@ -19,7 +19,7 @@ density (Dd), and mountain-front sinuosity (Smf)."
     excerpt: "**A project from my undergraduate degree**: This project aims to observe the relation between earthquake induced *Peak Ground Acceleration* and the safety factor of a slope."
     url: "https://www.jseg.or.jp/2015ARC/data/TP1/Tp1-28_1071129_1508254.pdf"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read the article"
   - image_path: /images/chi/chi1.png
     alt: "THimalayan frontal range topographic evolution"
     title: "Topographic analysis of the Himalayan frontal range"
