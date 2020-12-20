@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: posts
-permalink: /year-archive/
+permalink: /_posts/
 entries_layout: grid
 classes: wide
 author_profile: true
