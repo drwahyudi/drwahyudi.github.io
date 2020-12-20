@@ -33,8 +33,7 @@ density (Dd), and mountain-front sinuosity (Smf)."
     excerpt: "In this project, I use pebbles' lithology and OSL dates to infer thrust fold evolution in the frontal Himalaya."
     url: "/himalayan/mphil/net/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-            
+    btn_label: "Learn more"  
 ---
 
 {% include feature_row %}
