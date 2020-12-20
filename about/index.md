@@ -24,7 +24,7 @@ Bandung also has its very own fault, called <a href="https://doi.org/10.1016/j.t
 
 
 <img src="/images/bandung.jpg" alt="The Land Surface Dynamics group of the University of Edinburgh"/>
-*A picture of Bandung city as seen from Wastu Kencana*
+*A picture of Bandung city as seen from Balubur with the upturned boat volcano as a background (the right hand side mountain)*
 
 
 After I graduated my undergraduate degree, I went to Jakarta to work as hydrogeologist for a couple of years. Then I moved to Edinburgh in 2019, for my postgraduate journey. As a result, I think 20°C is 'too hot', and now I am afraid on how am I going to cope with the temperature when I come home.
@@ -32,4 +32,4 @@ After I graduated my undergraduate degree, I went to Jakarta to work as hydrogeo
 
 
 <img src="/images/waverley.jpg" alt="The Land Surface Dynamics group of the University of Edinburgh"/>
-*A picture of Edinburgh as seen from Jacob's Ladder*
+*A picture of Edinburgh's old town (including the Waverley station) as seen from Jacob's Ladder*
