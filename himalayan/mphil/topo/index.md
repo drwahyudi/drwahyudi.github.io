@@ -4,7 +4,7 @@ title: Frontal Himalayan topographic studies
 date: 20-12-2020
 excerpt: MPhil project
 header:
-  image: /images/churia1.png
+  image: /images/churiarange.png
 
 ---
 
