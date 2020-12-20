@@ -6,5 +6,6 @@ permalink: /_posts/
 classes: wide
 author_profile: true
 header:
-  overlay_color: "#333"
+  image: /images/bass.jpg
+  
 ---
