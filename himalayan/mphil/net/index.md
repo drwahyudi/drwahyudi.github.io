@@ -16,7 +16,11 @@ Aside from that, I also measured a sediment log in the outlet channel of the Chi
 
 <img src="/images/rivbank.jpg" alt="Narayani river bank"/>
 *Pebbles of the Narayani river bank*
+
+
 <img src="/images/osl.jpg" alt="Alt text"/>
 *Sand sample collection for the OSL dating*
+
+
 <img src="/images/oldfan.jpg" alt="Alt text"/>
 *The pebblely deposit from a terrace in Chitwan Dun*
