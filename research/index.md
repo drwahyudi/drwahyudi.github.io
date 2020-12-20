@@ -27,7 +27,7 @@ density (Dd), and mountain-front sinuosity (Smf)."
     url: "/himalayan/mphil/topo/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/pebbles2.jpg
+  - image_path: /images/pebbles.jpg
     alt: "Channels' evolution in Chitwan Dun, Nepal"
     title: "Fluvial network evolution in Chitwan Dun: Overviews from pebbles' lithology and OSL dates"
     excerpt: "In this project, I use pebbles' lithology and OSL dates to infer thrust fold evolution in the frontal Himalaya."
