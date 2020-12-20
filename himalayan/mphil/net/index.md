@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Fluvial network evolution in Chitwan Dun: Observations from pebbles' lithology distribution and Optically Stimulated Luminescence dating
+title: Fluvial network evolution in Chitwan Dun
 date: 20-12-2020
 excerpt: MPhil project2
 header:
   image: /images/pebbles2.jpg
   
 ---
-
+<h2> Overviews from pebbles' lithology distribution and Optically Stimulated Luminescence dating</h2>
 Currently, I am working on a project that uses topographic analysis, Optically Stimulated Luminescence (OSL) dating on fluvial terraces, and pebbles lithology distribution.
 
 <h2>OSL and fluvial network analysis</h2>
