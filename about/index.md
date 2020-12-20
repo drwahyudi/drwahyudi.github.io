@@ -21,4 +21,15 @@ I am from <a href="https://en.wikipedia.org/wiki/Bandung">*Bandung*</a>, <a href
 
 Bandung also has its very own fault, called <a href="https://doi.org/10.1016/j.tecto.2018.12.014">'*Lembang fault*'</a> which is always ready to give the people of Bandung a bit of quake at anytime. The nearest volcano is <a href="https://en.wikipedia.org/wiki/Tangkuban_Perahu">*Tangkuban Perahu*</a> (*literally means upturned boat, and if you can see the volcano from Bandung city, you can tell why*) which is right to the north of the fault. There is a mythology related to the existance of the volcano for the local people called <a href="https://en.wikipedia.org/wiki/Sangkuriang">*Sangkuriang*</a>, which tells the story of the origin of the volcano, as well as the mitigation aspect if the volcano erupts. 
 
+
+
+<img src="/images/bandung.jpg" alt="The Land Surface Dynamics group of the University of Edinburgh"/>
+*A picture of Bandung city as seen from Wastu Kencana*
+
+
 After I graduated my undergraduate degree, I went to Jakarta to work as hydrogeologist for a couple of years. Then I moved to Edinburgh in 2019, for my postgraduate journey. As a result, I think 20°C is 'too hot', and now I am afraid on how am I going to cope with the temperature when I come home.
+
+
+
+<img src="/images/waverley.jpg" alt="The Land Surface Dynamics group of the University of Edinburgh"/>
+*A picture of Edinburgh as seen from Jacob's Ladder*
