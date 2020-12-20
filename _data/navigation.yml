@@ -3,11 +3,11 @@ main:
    - title: "Home"
      url: https://drwahyudi.github.io/
    - title: "About"
-     url: /drwahyudi.github.io/about/
+     url: /about/
    - title: "Blog Posts"
      url: /_posts/
    - title: "Research"
-     url: /drwahyudi.github.io/research/
+     url: /research/
    - title: "CV"
      url: "https://drwahyudi.github.io/cv/"
   #- title: "Quick-Start Guide"
