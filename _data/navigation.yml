@@ -4,7 +4,7 @@ main:
      url: https://drwahyudi.github.io/
    - title: "About"
      url: /about/
-   - title: "Blog Posts"
+   - title: "Posts"
      url: /_posts/
    - title: "Research"
      url: /research/
