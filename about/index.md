@@ -4,7 +4,7 @@ title: About me
 date: 26-11-2020
 excerpt: information about me
 header:
-  image: /images/about.jpg
+  image: /images/about.JPG
 
 ---
 
