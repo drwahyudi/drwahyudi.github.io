@@ -9,9 +9,8 @@ author_profile: true
 ---
 # Donny Rio Wahyudi
 Geologist, Geomorphologist.
-
-<div id="webaddress">
 <a href="donny.wahyudi@ed.ac.uk">donny.wahyudi@ed.ac.uk</a>
+
 
 ## Currently
 
