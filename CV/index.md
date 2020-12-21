@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Donny Wahyudi's CV
+title: Curriculum vitae
 permalink: /CV/
 #entries_layout: grid
 classes: wide
 author_profile: true
-header:
-  image: /images/bass.jpg
+#header:
+#  image: /images/bass.jpg
   
 ---
 # Donny Rio Wahyudi
@@ -24,29 +24,21 @@ Studying MPhil programme on tectonic geomorphology of the Himalayan frontal rang
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tectonic geomorphology.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Interaction between tectonic, climate and landscape's topography.
 
 
 ## Education
 
-`2009 - 2014`
+**`2009 - 2014`**
 __Universitas Padjadjaran:__ Degree in Geology.
 
-`2019 - now`
+**`2019 - 2021`**
 __The University of Edinburgh:__ MPhil in Geology and Geophysics
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 
 
 ## Awards
@@ -60,35 +52,47 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+'2015'
+Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana. 2015. Kontrol Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat. Jurnal Lingkngan dan Bencana Geologi (JLBG), Vol. 6, No. 3, 229-240.
 
-`1669`
-Lectiones opticæ.
+### Conference
 
-etc. etc. etc.
 
-### Patents
-
+'2016'
+Anugerah, O.W., M. Aufaristama, A. Lesmana, A. Apriansyah, D.R. Wahyudi. 2016. Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study: Mt. Guntur, West Java, Indonesia. 2016 HAGI Convention & Exhibition, Yogyakarta, Indonesia.
+'2015'
+Darana, A.R., D. Muslim, T.H.W. Kristyanto, D.R. Wahyudi. 2015. Slope and lithological control on landslide vulnerability assessment based on Mukapayung Region Geological Map, West Java, Indonesia. Hanoigeo Conference 2015, Hanoi, Vietnam.
+'2015'
+Darana, A.R., Smaryono, D. Muslim, Z. Zakaria, D.R. Wahyudi, T.H.W. Kristyanto. 2015. Various model of slope stability due to earthquake activity in Gunung Tigo,Padang Pariaman,West Sumatra, Indonesia . 10th IAEG Conference, Kyoto, Japan.
+'2015'
+Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana. 2015. Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra. Proceeding paper at 10th IAEG Conference, Kyoto, Japan.
+'2015'
+Wahyudi, D.R.., A.R. Darana, D. Muslim, Sumaryono. 2014. Tectonic Geomorphology Of The Malalak Region West Sumatra, Indonesia. 43th IAGI Annual Convention and Exhibition, Jakarta, Indonesia.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019 - 2020`
+**Teaching Assistant** for the following courses: 
+-Earth Dynamics
+-Geomorphology 
+-Global Tectonic and Rock Cycle 
+-Eroding Landscape 
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+*the University of Edinburgh* – Edinburgh, United Kingdom.
 
 
+`2016 - 2018`
+__Hydrogeologist__, *Ministry of Public Works and Housing, the Republic of Indonesia* – Jakarta, Indonesia.
+
+
+`2014 - 2014`
+**Intern Geologist**, *Centre for Volcanology and Geological Hazard Mitigation* – Bandung, Indonesia.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
