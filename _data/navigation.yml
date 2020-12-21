@@ -9,6 +9,6 @@ main:
    - title: "Research"
      url: /research/
    - title: "CV"
-     url: "https://drwahyudi.github.io/cv/"
+     url: /CV/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
