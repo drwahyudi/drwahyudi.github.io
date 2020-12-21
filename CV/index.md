@@ -71,6 +71,7 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 `2019 - 2020`
 **Teaching Assistant**, *The University of Edinburgh* – Edinburgh, United Kingdom. 
+
 Courses: 
 - Earth Dynamics
 - Geomorphology 
