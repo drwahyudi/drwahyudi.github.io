@@ -15,8 +15,8 @@ Geologist, Geomorphologist.
 
 ## Currently
 
-MPhil student at The University of Edinburgh
-- Project: *Tectonic geomorphology and evolution of the Himalayan frontal ranges*
+MPhil student at The University of Edinburgh.
+- Project: *Tectonic geomorphology and evolution of the Himalayan frontal ranges*.
 
 ### Specialized in
 
@@ -34,13 +34,13 @@ Interaction between tectonic, climate and landscape's topography.
 __Universitas Padjadjaran:__ BEng degree in Geology.
 
 `2019 - 2021`
-__The University of Edinburgh:__ MPhil in Geology and Geophysics
+__The University of Edinburgh:__ MPhil in Geology and Geophysics.
 
 
 ## Awards
 
 `2017`
-Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia
+Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia.
 
 
 ## Publications
