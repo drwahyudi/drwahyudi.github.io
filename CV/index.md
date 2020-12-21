@@ -74,9 +74,9 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 Courses: 
 - Earth Dynamics
+- Eroding Landscape 
 - Geomorphology 
 - Global Tectonic and Rock Cycle 
-- Eroding Landscape 
 
 `2016 - 2018`
 __Hydrogeologist__, *Ministry of Public Works and Housing, the Republic of Indonesia* – Jakarta, Indonesia.
