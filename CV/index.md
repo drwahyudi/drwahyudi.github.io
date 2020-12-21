@@ -7,7 +7,7 @@ Geologist, Geomorphologist.
 
 <div id="webaddress">
 <a href="donny.wahyudi@ed.ac.uk">donny.wahyudi@ed.ac.uk</a>
-| <a href="drwahyudi.github.io">My wikipedia page</a>
+| <a href="drwahyudi.github.io">My web page</a>
 </div>
 
 
