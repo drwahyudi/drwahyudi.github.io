@@ -53,21 +53,23 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 ### Journals
 
 `2015`
-- Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana. 2015. Kontrol Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat. Jurnal Lingkngan dan Bencana Geologi (JLBG), Vol. 6, No. 3, 229-240.
+- Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana. `2015`. Kontrol Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat. Jurnal Lingkngan dan Bencana Geologi (JLBG), Vol. 6, No. 3, 229-240.
 
 ### Conference
 
 
 `2016`
-- Anugerah, O.W., M. Aufaristama, A. Lesmana, A. Apriansyah, D.R. Wahyudi. 2016. Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study: Mt. Guntur, West Java, Indonesia. 2016 HAGI Convention & Exhibition, Yogyakarta, Indonesia.
+- Anugerah, O.W., M. Aufaristama, A. Lesmana, A. Apriansyah, D.R. Wahyudi. `2016`. Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study: Mt. Guntur, West Java, Indonesia. 2016 HAGI Convention & Exhibition, Yogyakarta, Indonesia.
+
+
 `2015`
-- Darana, A.R., D. Muslim, T.H.W. Kristyanto, D.R. Wahyudi. 2015. Slope and lithological control on landslide vulnerability assessment based on Mukapayung Region Geological Map, West Java, Indonesia. Hanoigeo Conference 2015, Hanoi, Vietnam.
-`2015`
-- Darana, A.R., Smaryono, D. Muslim, Z. Zakaria, D.R. Wahyudi, T.H.W. Kristyanto. 2015. Various model of slope stability due to earthquake activity in Gunung Tigo,Padang Pariaman,West Sumatra, Indonesia . 10th IAEG Conference, Kyoto, Japan.
-`2015`
-- Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana. 2015. Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra. Proceeding paper at 10th IAEG Conference, Kyoto, Japan.
-`2015`
-- Wahyudi, D.R.., A.R. Darana, D. Muslim, Sumaryono. 2014. Tectonic Geomorphology Of The Malalak Region West Sumatra, Indonesia. 43th IAGI Annual Convention and Exhibition, Jakarta, Indonesia.
+- Darana, A.R., D. Muslim, T.H.W. Kristyanto, D.R. Wahyudi. `2015`. Slope and lithological control on landslide vulnerability assessment based on Mukapayung Region Geological Map, West Java, Indonesia. Hanoigeo Conference 2015, Hanoi, Vietnam.
+- Darana, A.R., Smaryono, D. Muslim, Z. Zakaria, D.R. Wahyudi, T.H.W. Kristyanto. `2015`. Various model of slope stability due to earthquake activity in Gunung Tigo,Padang Pariaman,West Sumatra, Indonesia . 10th IAEG Conference, Kyoto, Japan.
+- Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana. `2015`. Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra. Proceeding paper at 10th IAEG Conference, Kyoto, Japan.
+
+
+`2014`
+- Wahyudi, D.R.., A.R. Darana, D. Muslim, Sumaryono. `2014`. Tectonic Geomorphology Of The Malalak Region West Sumatra, Indonesia. 43th IAGI Annual Convention and Exhibition, Jakarta, Indonesia.
 
 
 ## Occupation
