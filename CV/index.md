@@ -31,7 +31,7 @@ Interaction between tectonic, climate and landscape's topography.
 ## Education
 
 `2009 - 2014`
-__Universitas Padjadjaran:__ Degree in Geology.
+__Universitas Padjadjaran:__ BEng degree in Geology.
 
 `2019 - 2021`
 __The University of Edinburgh:__ MPhil in Geology and Geophysics
@@ -47,6 +47,9 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
+
+`2020`
+- Wahyudi, D.R., H.D. Sinclair, S.M. Mudd. Progressive evolution of thrust fold topography in the frontal Himalaya. Under review in _Geomorphology_.
 
 `2015`
 - Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana. `2015`. Kontrol Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat. Jurnal Lingkngan dan Bencana Geologi (JLBG), Vol. 6, No. 3, 229-240.
