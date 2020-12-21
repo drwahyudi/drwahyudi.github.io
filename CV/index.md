@@ -5,9 +5,7 @@ permalink: /CV/
 #entries_layout: grid
 classes: wide
 author_profile: true
-#header:
-#  image: /images/bass.jpg
-  
+
 ---
 # Donny Rio Wahyudi
 Geologist, Geomorphologist.
@@ -17,10 +15,10 @@ Geologist, Geomorphologist.
 | <a href="drwahyudi.github.io">My web page</a>
 </div>
 
-
 ## Currently
 
-Studying MPhil programme on tectonic geomorphology of the Himalayan frontal ranges. My study encompasses the use of topographic metrics and Optically Stimulated Dating to reconstructs landscape evolution. 
+MPhil student at The University of Edinburgh
+- Project: *Tectonic geomorphology of the Himalayan frontal ranges which encompasses the use of topographic metrics and Optically Stimulated Dating to reconstructs landscape evolution.*
 
 ### Specialized in
 
@@ -46,8 +44,8 @@ __The University of Edinburgh:__ MPhil in Geology and Geophysics
 `2017`
 Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia
 
-## Publications
 
+## Publications
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
@@ -57,16 +55,13 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 ### Conference
 
-
 `2016`
 - Anugerah, O.W., M. Aufaristama, A. Lesmana, A. Apriansyah, D.R. Wahyudi. `2016`. Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study: Mt. Guntur, West Java, Indonesia. 2016 HAGI Convention & Exhibition, Yogyakarta, Indonesia.
-
 
 `2015`
 - Darana, A.R., D. Muslim, T.H.W. Kristyanto, D.R. Wahyudi. `2015`. Slope and lithological control on landslide vulnerability assessment based on Mukapayung Region Geological Map, West Java, Indonesia. Hanoigeo Conference 2015, Hanoi, Vietnam.
 - Darana, A.R., Smaryono, D. Muslim, Z. Zakaria, D.R. Wahyudi, T.H.W. Kristyanto. `2015`. Various model of slope stability due to earthquake activity in Gunung Tigo,Padang Pariaman,West Sumatra, Indonesia . 10th IAEG Conference, Kyoto, Japan.
 - Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana. `2015`. Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra. Proceeding paper at 10th IAEG Conference, Kyoto, Japan.
-
 
 `2014`
 - Wahyudi, D.R.., A.R. Darana, D. Muslim, Sumaryono. `2014`. Tectonic Geomorphology Of The Malalak Region West Sumatra, Indonesia. 43th IAGI Annual Convention and Exhibition, Jakarta, Indonesia.
@@ -75,21 +70,27 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 ## Occupation
 
 `2019 - 2020`
-**Teaching Assistant** for the following courses: 
+**Teaching Assistant** in: 
 - Earth Dynamics
 - Geomorphology 
 - Global Tectonic and Rock Cycle 
 - Eroding Landscape 
-
 *the University of Edinburgh* – Edinburgh, United Kingdom.
-
 
 `2016 - 2018`
 __Hydrogeologist__, *Ministry of Public Works and Housing, the Republic of Indonesia* – Jakarta, Indonesia.
 
-
 `2014 - 2014`
 **Intern Geologist**, *Centre for Volcanology and Geological Hazard Mitigation* – Bandung, Indonesia.
+
+
+## Projects
+
+`2016 - 2017` __Team leader__, East Natuna Basin summary and atlas drawing – _Indogeo Social Enterprise_, Jakarta, Indonesia.
+
+`2014 - 2014` __Geologist__, hydrogeological study of Bandung area – _Geotetra research group_, Bandung, Indonesia.
+
+`2014 - 2014` __Geologist__, geophysical study for manganese exploration – _GAP Consultant_, Bandung, Indonesia.
 
 <!-- ### Footer
 
