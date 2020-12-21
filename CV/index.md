@@ -1,6 +1,13 @@
 ---
-layout: cv
+layout: single
 title: Donny Wahyudi's CV
+permalink: /CV/
+#entries_layout: grid
+classes: wide
+author_profile: true
+header:
+  image: /images/bass.jpg
+  
 ---
 # Donny Rio Wahyudi
 Geologist, Geomorphologist.
