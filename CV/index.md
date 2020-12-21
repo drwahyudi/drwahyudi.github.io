@@ -74,10 +74,10 @@ Wahyudi, D.R.., A.R. Darana, D. Muslim, Sumaryono. 2014. Tectonic Geomorphology 
 
 `2019 - 2020`
 **Teaching Assistant** for the following courses: 
--Earth Dynamics
--Geomorphology 
--Global Tectonic and Rock Cycle 
--Eroding Landscape 
+- Earth Dynamics
+- Geomorphology 
+- Global Tectonic and Rock Cycle 
+- Eroding Landscape 
 
 *the University of Edinburgh* – Edinburgh, United Kingdom.
 
