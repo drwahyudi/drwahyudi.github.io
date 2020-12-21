@@ -2,8 +2,8 @@
 layout: cv
 title: Donny Wahyudi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Donny Rio Wahyudi
+Geologist, Geomorphologist.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
