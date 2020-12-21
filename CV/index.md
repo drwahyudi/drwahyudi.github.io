@@ -2,7 +2,7 @@
 layout: single
 title: Curriculum Vitae
 permalink: /CV/
-entries: wide
+classes: wide
 author_profile: true
 ---
 
