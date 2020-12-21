@@ -2,11 +2,9 @@
 layout: single
 title: Curriculum Vitae
 permalink: /CV/
-#entries_layout: grid
-classes: wide
 author_profile: true
-
 ---
+
 # Donny Rio Wahyudi
 Geologist, Geomorphologist.
 
