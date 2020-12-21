@@ -18,7 +18,7 @@ Geologist, Geomorphologist.
 ## Currently
 
 MPhil student at The University of Edinburgh
-- Project: *Tectonic geomorphology of the Himalayan frontal ranges which encompasses the use of topographic metrics and Optically Stimulated Dating to reconstructs landscape evolution.*
+- Project: *Tectonic geomorphology and evolution of the Himalayan frontal ranges*
 
 ### Specialized in
 
