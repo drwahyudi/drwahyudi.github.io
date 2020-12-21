@@ -27,7 +27,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2009-2014`
+`2009 - 2014`
 __Universitas Padjadjaran:__ Degree in Geology.
 
 `2019 - now`
@@ -45,11 +45,7 @@ __Trinity College, Cambridge__
 ## Awards
 
 `2017`
-Recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia
-
-Associate, *French Academy of Science*, Paris, France
-
-
+Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia
 
 ## Publications
 
