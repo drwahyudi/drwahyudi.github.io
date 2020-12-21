@@ -70,12 +70,12 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 ## Occupation
 
 `2019 - 2020`
-**Teaching Assistant** in: 
+**Teaching Assistant**, *The University of Edinburgh* – Edinburgh, United Kingdom. 
+Courses: 
 - Earth Dynamics
 - Geomorphology 
 - Global Tectonic and Rock Cycle 
 - Eroding Landscape 
-*the University of Edinburgh* – Edinburgh, United Kingdom.
 
 `2016 - 2018`
 __Hydrogeologist__, *Ministry of Public Works and Housing, the Republic of Indonesia* – Jakarta, Indonesia.
