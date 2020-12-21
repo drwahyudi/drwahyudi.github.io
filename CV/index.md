@@ -29,7 +29,7 @@ Interaction between tectonic, climate and landscape's topography.
 ## Education
 
 `2009 - 2014`
-__Universitas Padjadjaran:__ BEng degree in Geology.
+__Universitas Padjadjaran:__ BEng in Geology.
 
 `2019 - 2021`
 __The University of Edinburgh:__ MPhil in Geology and Geophysics.
