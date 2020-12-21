@@ -13,7 +13,7 @@ Geologist, Geomorphologist.
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying MPhil programme on tectonic geomorphology of the Himalayan frontal ranges. My study encompasses the use of topographic metrics and Optically Stimulated Dating to reconstructs landscape evolution. 
 
 ### Specialized in
 
@@ -27,11 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2014`
+__Universitas Padjadjaran:__ Degree in Geology.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019 - now`
+__The University of Edinburgh:__ MPhil in Geology and Geophysics
 
 - Sizar
 
@@ -44,8 +44,8 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+Recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta, Indonesia
 
 Associate, *French Academy of Science*, Paris, France
 
