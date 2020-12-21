@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Curriculum vitae
+title: Curriculum Vitae
 permalink: /CV/
 #entries_layout: grid
 classes: wide
