@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: splash
+author_profile: true
 header:
   image: /images/research.jpg
 excerpt: list of my work
