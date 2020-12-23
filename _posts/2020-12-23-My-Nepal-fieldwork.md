@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
 author_profile: false
+classes: wide
 #tags:
 #  - Post Formats
 #  - readability
