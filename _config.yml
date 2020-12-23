@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donny Rio Wahyudi"
+title                    : "D.R. Wahyudi"
 title_separator          : "-"
 subtitle                 : Geologist, geomorphologist
 name                     : "Donny Rio Wahyudi"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Donny"
+  name             : "Donny Rio Wahyudi"
   avatar           : "drwahyudi.github.io/images/line_1549728211640.jpg"
   bio              : "MPhil candidate at the University of Edinburgh. Currently working on tectonic geomorphology of the Himalayan frontal thrust"
   location         : "Edinburgh, UK"
