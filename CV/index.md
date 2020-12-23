@@ -3,7 +3,7 @@ layout: single
 title: Curriculum Vitae
 permalink: /CV/
 classes: wide
-author_profile: true
+author_profile: false
 ---
 
 # Donny Rio Wahyudi
