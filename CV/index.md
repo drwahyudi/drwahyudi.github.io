@@ -6,6 +6,8 @@ classes: wide
 author_profile: true
 ---
 
+_Last updated: December 2020_
+
 ## Donny Rio Wahyudi
 Geologist, Geomorphologist.
 
@@ -93,8 +95,6 @@ __Hydrogeologist__, *Ministry of Public Works and Housing, the Republic of Indon
 
 `2014 - 2014` __Geologist__, geophysical study for manganese exploration – _GAP Consultant_, Bandung, Indonesia.
 
-<!-- ### Footer
 
-Last updated: December 2020 -->
 
 
