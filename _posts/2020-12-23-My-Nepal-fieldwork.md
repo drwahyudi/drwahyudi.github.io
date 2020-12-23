@@ -3,7 +3,7 @@ title: "My Nepal fieldwork experience."
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
-author_profile: false
+author_profile: true
 classes: wide
 #tags:
 #  - Post Formats
