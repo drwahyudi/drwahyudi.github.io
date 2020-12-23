@@ -4,7 +4,7 @@ layout: posts
 permalink: /_posts/
 #entries_layout: grid
 classes: wide
-author_profile: false
+author_profile: true
 header:
   image: /images/bass.jpg
   
