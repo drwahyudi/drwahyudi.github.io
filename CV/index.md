@@ -5,8 +5,8 @@ permalink: /CV/
 classes: wide
 author_profile: true
 ---
+_December 2020_
 
-                                                                                                                                                    _Last updated: December 2020_
 
 # Donny Rio Wahyudi
 Geologist, Geomorphologist.
