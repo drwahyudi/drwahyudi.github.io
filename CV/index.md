@@ -6,9 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-_Last updated: December 2020_
+                                                                                                                                                    _Last updated: December 2020_
 
-## Donny Rio Wahyudi
+# Donny Rio Wahyudi
 Geologist, Geomorphologist.
 
 <a href="donny.wahyudi@ed.ac.uk">donny.wahyudi@ed.ac.uk</a>
