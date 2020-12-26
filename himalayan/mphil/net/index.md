@@ -3,7 +3,6 @@ layout: single
 title: Fluvial network evolution in Chitwan Dun
 date: 20-12-2020
 excerpt: MPhil project2
-permalink: /research/OSL/
 header:
   image: /images/pebbles2.jpg
   
