@@ -3,7 +3,6 @@ layout: single
 title: "Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra"
 excerpt_separator: "<!--more-->"
 date: 20-12-2020
-permalink: /research/landslide/
 excerpt: MPhil project
 
 ---
