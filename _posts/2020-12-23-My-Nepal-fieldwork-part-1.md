@@ -20,7 +20,7 @@ A trip to Nepal took 18 hours flight or so with 2 hours transit in Doha. Nothing
 
 
 <img src="/images/nepal/plane.jpg" alt="Alt text"/>
-*The airplane I have flown to Doha*
+*The airplane I have flown with to Doha*
 
 We landed in Doha, and Emma was excited to show me the giant teddy bear at the Doha airport. Emma had been telling me about this ginormous doll since the day before our flight at the campus. Since Emma had been visiting Nepal through Doha several times, she is very familiar with navigating through the Doha airport. She took me to the place where the giant teddy belongs (located at the centre of the airport terminal). She also guided me to go to the gate for our next flight to Kathmandu (which was packed with passengers).
 
