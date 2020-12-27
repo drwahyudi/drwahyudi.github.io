@@ -71,7 +71,7 @@ _27/09/2019_
 
 <img src="/images/nepal/sim.jpg" alt="Alt text"/>
 
-*To buy a local sim card in Nepal, you have to fill this form and attach a copy your passport*
+*To buy a local sim card in Nepal, you have to fill this form and attach a copy of your passport*
 
 
 
