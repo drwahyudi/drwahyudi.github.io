@@ -64,6 +64,10 @@ _27/09/2019_
 
 
 
+{% include video id="d97ydifRKrA" provider="youtube" %}
+*A nice dinner before my upturned plate accident*
+
+
 
 <img src="/images/nepal/sim.jpg" alt="Alt text"/>
 
