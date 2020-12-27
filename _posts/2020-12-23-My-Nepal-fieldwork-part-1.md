@@ -56,6 +56,22 @@ _27/09/2019_
 *The taxi receipt from the airport to our hostel*
 
 
+
+
+<img src="/images/nepal/dhal.jpg" alt="Alt text"/>
+
+*Complete meal with dhal, vegetable and egg curry, youghurt and the cracker which I forget what it's called*
+
+
+
+
+<img src="/images/nepal/sim.jpg" alt="Alt text"/>
+
+*To buy a local sim card in Nepal, you have to fill this form and attach a copy your passport*
+
+
+
+
 ## Trip to Chitwan Dun
 _28/09/2019_
 
