@@ -44,6 +44,7 @@ _27/09/2019_
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882.9937747350987!2d85.30844859999999!3d27.718055099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18e3603f4e53%3A0xd30d18c34226df9c!2sFamily%20Peace%20House!5e0!3m2!1sid!2suk!4v1609081589287!5m2!1sid!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 ***The location of the hostel in which we were staying in Kathmandu***
 
 
