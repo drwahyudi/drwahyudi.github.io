@@ -79,6 +79,15 @@ _27/09/2019_
 ## Trip to Chitwan Dun
 _28/09/2019_
 
+<img src="/images/nepal/depart.jpg" alt="Alt text"/>
+
+<img src="/images/nepal/view.jpg" alt="Alt text"/>
+
+<img src="/images/nepal/chitwan.jpg" alt="Alt text"/>
+
+<img src="/images/nepal/roof.jpg" alt="Alt text"/>
+
+
 ## Wandering around Chitwan Dun
 _29/09/2019_
 
