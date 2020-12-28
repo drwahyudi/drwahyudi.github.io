@@ -16,12 +16,17 @@ Hi'ya! I have been wanting to share my fieldwork experience in Nepal for a long 
 ## The departure
 _26/09/2019_
 
-A trip to Nepal took 18 hours flight or so with 2 hours transit in Doha. Nothing is actually exceptional on my flight from Edinburgh to Doha; it was a pleasant flight. On this trip, I went with Emma, who shares the same supervisor with me. Hugh (our supervisor), Mikael (Emma's other supervisor), and Mark (another researcher on our group) are already in Kathmandu, waiting for us. We took off from Edinburgh at 4 pm and flew for 7 hours to Doha. As I said before, it was a delightful flight. We flew the Airbus A350 (a great, brand new aircraft) with so much rooms for our legs. It was a quite flight with not many passengers on board. I had an enjoyable dinner, snacks, etc. Because I don't want to miss everything that was going on with this new aircraft, which I am excited about, I did not sleep at all during my flight from Edinburgh to Doha. I was thinking that I should sleep on the next flight from Doha to Kathmandu so I would not have jet lag when I step my feet in Nepal. Soon, I am going to realise that that was a bad idea.
-
-
 <img src="/images/nepal/plane1.jpg" alt="Alt text"/>
 
 *The airplane I have flown with to Doha*
+
+A trip to Nepal took 18 hours flight or so with 2 hours transit in Doha. Nothing is actually exceptional on my flight from Edinburgh to Doha; it was a pleasant flight. On this trip, I went with Emma, who shares the same supervisor with me. Hugh (our supervisor), Mikael (Emma's other supervisor), and Mark (another researcher on our group) are already in Kathmandu, waiting for us. We took off from Edinburgh at 4 pm and flew for 7 hours to Doha. As I said before, it was a delightful flight. We flew the Airbus A350 (a great, brand new aircraft) with so much rooms for our legs. It was a quite flight with not many passengers on board. I had an enjoyable dinner, snacks, etc. Because I don't want to miss everything that was going on with this new aircraft, which I am excited about, I did not sleep at all during my flight from Edinburgh to Doha. I was thinking that I should sleep on the next flight from Doha to Kathmandu so I would not have jet lag when I step my feet in Nepal. Soon, I am going to realise that that was a bad idea.
+
+
+
+<img src="/images/nepal/screen.jpeg" alt="Alt text"/>
+
+*Screen with the plane's position*
 
 We landed in Doha, and Emma was excited to show me the giant teddy bear at the Doha airport. Emma had been telling me about this ginormous doll since the day before our flight at the campus. Since Emma had been visiting Nepal through Doha several times, she is very familiar with navigating through the Doha airport. She took me to the place where the giant teddy belongs (located at the centre of the airport terminal). She also guided me to go to the gate for our next flight to Kathmandu (which was packed with passengers).
 
@@ -63,6 +68,8 @@ We finally arrived at the hostel and it was a nice place to stay. We stayed at t
 ***The location of the hostel in which we were staying in Kathmandu:***
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882.9937747350987!2d85.30844859999999!3d27.718055099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18e3603f4e53%3A0xd30d18c34226df9c!2sFamily%20Peace%20House!5e0!3m2!1sid!2suk!4v1609081589287!5m2!1sid!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
+{% include video id="accdTqZnlCE" provider="youtube" %}
+*The shared bathroom room*
 
 Hugh, Mikael and Mark finally arrived not long after we arrived. Since we all starving, we look for a café/restaurant near us. Joining with us is Mr. Bhairab Sitaula, who helped us manage our fieldwork in Nepal. I remember Mikael was fascinated by listening to Mr. Bhairab's story about three kingdoms in ancient Kathmandu while waiting for our food. It was a terrific story. We ordered momo(s), a traditional Nepali style dumpling with vegetable filling, and dhal for my main course. The momo was served with green and orange sauce, which taste really good. I really enjoy my dishes. However, a story is not completed without any chaos in it. I flipped over my main course, not realising it sits on the edge of the table. The plate used to serve the dhal set was huge, I can't see where the table was! Thankfully, I almost finished the dishes then that humiliating incident happened.
 
