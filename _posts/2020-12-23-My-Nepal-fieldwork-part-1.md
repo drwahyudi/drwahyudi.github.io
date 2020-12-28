@@ -40,34 +40,36 @@ To anyone who travels during the night flight, please, just get some sleep. Othe
 ## Arrived in Nepal
 _27/09/2019_
 
+
+On the following morning, I finally landed in Nepal. I went straight to the immigration office to pay the visa fee and get my passport stamped. You always want to be in the queue early because it can get busy and hold you up for an hour. Lucky me, my experienced fieldwork co-worker (e.g., Hugh, Mikael, Emma) has trained me well to not to get stuck in the visa queue. I went to the baggage collection conveyor belt to get my stuff and Emma's equipment. Then, some random woman started talking to me in Nepali, which clearly I couldn't understand. Apparently, I look like a Nepali person. This feels like a plot twist to me, and this won't be the last time some random people talking to me in Nepali.
+
 <img src="/images/nepal/visa1.jpg" alt="Alt text"/>
 
 *The Tribhuvan international airport visa queue*
 
-
-
-***The location of the hostel in which we were staying in Kathmandu:***
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882.9937747350987!2d85.30844859999999!3d27.718055099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18e3603f4e53%3A0xd30d18c34226df9c!2sFamily%20Peace%20House!5e0!3m2!1sid!2suk!4v1609081589287!5m2!1sid!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-
+Emma and I quickly booked a taxi to reach our hostel in Paknajol, a central area in Kathmandu situated around the tourist attraction spot. And I have to say that I am familiar with the scene of Kathmandu city; I feel like I was in Indonesia, but I was not. It didn't take us long to reach our accommodation from the airport, and this is why I can say that this was clearly not Indonesia. Indonesia's traffic problem can really make someone aging during their commute. 
 
 <img src="/images/nepal/taxi1.jpg" alt="Alt text"/>
 
 *The taxi receipt from the airport to our hostel*
 
+We finally arrived at the hostel and it was a nice place to stay. We stayed at the family-run business called Family Peace House (the title makes it really obvious heh?). The people there were really lovely. Since Hugh, Mikael and Mark are yet to join us, we, well, Emma, decided to go to the Practical Action Nepal office, located around 30 minutes' walk from our accommodation. She asked me to join her, and I did. During my walk to The Practical Action office, I noticed something which is very Indonesian. I was very surprised that I found the Lion Air group's (an Indonesian low-cost carrier airline famous for their delay time) office in Kathmandu. Anyway, I had a good afternoon walk in Kathmandu and went back to the hostel after. 
+
+***The location of the hostel in which we were staying in Kathmandu:***
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882.9937747350987!2d85.30844859999999!3d27.718055099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18e3603f4e53%3A0xd30d18c34226df9c!2sFamily%20Peace%20House!5e0!3m2!1sid!2suk!4v1609081589287!5m2!1sid!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
+Hugh, Mikael and Mark finally arrived not long after we arrived. Since we all starving, we look for a café/restaurant near us. Joining with us is Mr. Bhairab Sitaula, who helped us manage our fieldwork in Nepal. I remember Mikael was fascinated by listening to Mr. Bhairab's story about three kingdoms in ancient Kathmandu while waiting for our food. It was a terrific story. We ordered momo(s), a traditional Nepali style dumpling with vegetable filling, and dhal for my main course. The momo was served with green and orange sauce, which taste really good. I really enjoy my dishes. However, a story is not completed without any chaos in it. I flipped over my main course, not realising it sits on the edge of the table. The plate used to serve the dhal set was huge, I can't see where the table was! Thankfully, I almost finished the dishes then that humiliating incident happened.
 
 <img src="/images/nepal/dhal.jpg" alt="Alt text"/>
 
 *Complete meal with dhal, vegetable and egg curry, youghurt and the cracker which I forget what it's called*
 
 
-
 {% include video id="d97ydifRKrA" provider="youtube" %}
 *A nice dinner before my upturned plate accident*
 
-
+After we finished our dinner, we head back to the hostel to get some rest for our long journey tomorrow. And yet, I still have some work to do, getting the Nepalese sim card! So I took Emma as my hostage to accompany me, looking for it. I can't remember what happened exactly, but when we found the available kiosk, it took us hours to get me a sim card. It was so long, Mikael was worried and joined us! Or was it Mark? I can't remember who exactly.
 
 <img src="/images/nepal/sim.jpg" alt="Alt text"/>
 
