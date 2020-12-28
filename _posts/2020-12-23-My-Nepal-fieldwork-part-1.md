@@ -55,6 +55,11 @@ Emma and I quickly booked a taxi to reach our hostel in Paknajol, a central area
 
 We finally arrived at the hostel and it was a nice place to stay. We stayed at the family-run business called Family Peace House (the title makes it really obvious heh?). The people there were really lovely. Since Hugh, Mikael and Mark are yet to join us, we, well, Emma, decided to go to the Practical Action Nepal office, located around 30 minutes' walk from our accommodation. She asked me to join her, and I did. During my walk to The Practical Action office, I noticed something which is very Indonesian. I was very surprised that I found the Lion Air group's (an Indonesian low-cost carrier airline famous for their delay time) office in Kathmandu. Anyway, I had a good afternoon walk in Kathmandu and went back to the hostel after. 
 
+<img src="/images/nepal/lion.jpg" alt="Alt text"/>
+
+*Lion Air group's office in Kathmandu*
+
+
 ***The location of the hostel in which we were staying in Kathmandu:***
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882.9937747350987!2d85.30844859999999!3d27.718055099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18e3603f4e53%3A0xd30d18c34226df9c!2sFamily%20Peace%20House!5e0!3m2!1sid!2suk!4v1609081589287!5m2!1sid!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
@@ -74,8 +79,6 @@ After we finished our dinner, we head back to the hostel to get some rest for ou
 <img src="/images/nepal/sim.jpg" alt="Alt text"/>
 
 *To buy a local sim card in Nepal, you have to fill this form and attach a copy of your passport*
-
-
 
 
 ## Trip to Chitwan Dun
