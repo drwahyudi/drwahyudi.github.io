@@ -93,9 +93,18 @@ _28/09/2019_
 
 <img src="/images/nepal/depart.jpg" alt="Alt text"/>
 
+{% include video id="2rSh6uDrN1I" provider="youtube" %}
+
+{% include video id="1PYE1Sxg3hI" provider="youtube" %}
+
 <img src="/images/nepal/view.jpg" alt="Alt text"/>
 
+{% include video id="PGhOLK1K4eE" provider="youtube" %}
+
+
 <img src="/images/nepal/chitwan.jpg" alt="Alt text"/>
+
+{% include video id="1BxH-DwkPlY" provider="youtube" %}
 
 <img src="/images/nepal/roof.jpg" alt="Alt text"/>
 
