@@ -95,7 +95,6 @@ _28/09/2019_
 
 {% include video id="2rSh6uDrN1I" provider="youtube" %}
 
-##{% include video id="1PYE1Sxg3hI" provider="youtube" %}
 
 <img src="/images/nepal/view.jpg" alt="Alt text"/>
 
