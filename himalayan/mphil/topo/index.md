@@ -37,3 +37,8 @@ Here is a talk from me about my current project:
 
 {% include video id="BwIYO4-YkPU" provider="youtube" %}
 *LSD Talk series normally runs every week on zoom*
+
+
+**_Update_**:
+The published version of this researsh can be view and downloaded at:
+ <a href="https://doi.org/10.1016/j.geomorph.2021.107717">*Geomorphology Journal*</a>
