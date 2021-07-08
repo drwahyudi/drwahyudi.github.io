@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Frontal Himalayan topographic studies
-date: 20-12-2020
+date: 09-07-2021
 excerpt: MPhil project
 header:
   image: /images/churiarange.png
