@@ -45,17 +45,17 @@ Here is a talk from me about my current project:
 
 
 The published version of this researsh entitled **_Progressive evolution of thrust fold topography in the frontal Himalaya_** can be view and downloaded at:
- <a href="https://doi.org/10.1016/j.geomorph.2021.107717">*Geomorphology Journal*</a>
+ <a href="https://doi.org/10.1016/j.geomorph.2021.107717">*Geomorphology Journal*</a> (https://doi.org/10.1016/j.geomorph.2021.107717)
  
  
  
  
  <img src="/images/web.PNG" alt="_Geomorphology_, Elsevier"/>
-Web view in _Geomorphology_, ELSEVIER (https://doi.org/10.1016/j.geomorph.2021.107717)
+Web view in _Geomorphology_, ELSEVIER
 
 
 
 
  
  <img src="/images/geomorph.png" alt="Thumbnail view"/>
-Proofs view (https://doi.org/10.1016/j.geomorph.2021.107717)
+Proofs view
