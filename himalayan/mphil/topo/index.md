@@ -39,6 +39,15 @@ Here is a talk from me about my current project:
 *LSD Talk series normally runs every week on zoom*
 
 
-**_Update_**:
+<h2>Update on publication:</h2>
+
+
 The published version of this researsh can be view and downloaded at:
  <a href="https://doi.org/10.1016/j.geomorph.2021.107717">*Geomorphology Journal*</a>
+ 
+ 
+ <img src="/images/web.PNG" alt="_Geomorphology_, Elsevier"/>
+Web view in _Geomorphology_, ELSEVIER (https://doi.org/10.1016/j.geomorph.2021.107717)
+ 
+ <img src="/images/geomorph.png" alt="Thumbnail view"/>
+Proofs view (https://doi.org/10.1016/j.geomorph.2021.107717)
