@@ -51,6 +51,7 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 `2021`
 - Wahyudi, D. R., Sinclair, H. D., & Mudd, S. M. `2021`. Progressive evolution of thrust fold topography in the frontal Himalaya. _Geomorphology, 384, 107717_.  <a href="https://doi.org/10.1016/j.geomorph.2021.107717"></a>
+- Wahyudi, D. R., Sinclair, H. D., & Mudd, S. M. `2021`. Chitwan Intermontane Valley fluvial system evolution. _Under preparation_.
 
 `2015`
 - Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana. `2015`. Kontrol Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat. Jurnal Lingkngan dan Bencana Geologi (JLBG), Vol. 6, No. 3, 229-240.
