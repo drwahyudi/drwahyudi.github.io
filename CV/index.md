@@ -49,7 +49,7 @@ Scholarship recipient, *Indonesia Endowment Fund for Education (LPDP)*, Jakarta,
 
 ### Journals
 
-`2020`
+`2021`
 - Wahyudi, D. R., Sinclair, H. D., & Mudd, S. M. `2021`. Progressive evolution of thrust fold topography in the frontal Himalaya. _Geomorphology, 384, 107717_.  <a href="https://doi.org/10.1016/j.geomorph.2021.107717"></a>
 
 `2015`
