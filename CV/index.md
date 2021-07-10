@@ -16,7 +16,7 @@ Geologist, Geomorphologist.
 
 ## Currently
 
-MPhil student at The University of Edinburgh.
+MPhil at The University of Edinburgh.
 - Project: *Tectonic geomorphology and evolution of the Himalayan frontal ranges*.
 
 ### Specialized in
@@ -26,7 +26,7 @@ Tectonic geomorphology.
 
 ### Research interests
 
-Interaction between tectonic, climate and landscape's topography.
+Interaction between tectonics, climate and landscape's topography.
 
 
 ## Education
