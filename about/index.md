@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About me
-date: 26-11-2020
+date: 12-07-2021
 excerpt: information about me
 header:
   image: /images/about1.JPG
