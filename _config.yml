@@ -1,12 +1,12 @@
 # Welcome to Jekyll!
-
+#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `Jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
-
+#
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
@@ -15,22 +15,22 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
- locale                   : "en-GB"
-title                    : "Donny R. Wahyudi"
+locale                   : "en-US"
+title                    : "Donny Rio Wahyudi"
 title_separator          : "-"
-subtitle                 : "Geologist, geomorphologist"
+subtitle                 : "Geologist, geomorphologist" # site tagline that appears below site title in masthead
 name                     : "Donny Rio Wahyudi"
 description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
-url                      : #"https://mmistakes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"/home" # the subpath of your site, e.g. "/blog"
-repository               : #"drwahyudi/drwahyudi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : #/drwahyudi.github.io/images/siccarpoint.jpg  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-#logo                     : "/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,6 +43,13 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -51,7 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : false # true, false (default)
+  hide                   : # true, false (default)
+search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -70,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -95,56 +103,50 @@ analytics:
 author:
   name             : "Donny Wahyudi"
   avatar           : "/images/line_1549728211640.jpg"
-  bio              : "MPhil at the University of Edinburgh. Currently working on tectonic geomorphology of the Himalayan frontal thrust"
+  bio              : "MPhil at the University of Edinburgh. Currently working on tectonic geomorphology of the Himalayan frontal thrust."
   location         : "Bandung, ID"
-  email            : #"donny.wahyudi@ed.ac.uk"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:donny.wahyudi@ed.ac.uk"
-    - label: #"webpage"
-      icon: #"fas fa-book"
-      url: #"https://www.ed.ac.uk/geosciences/people?indv=12284"
-    - label: "linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/donny-wahyudi-5b19376b/"
-    - label: "Researchgate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Donny_Wahyudi2"
-    #- label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-      #url: "https://github.com/drwahyudi"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/donnyriow"
-    #- label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/drwahyudi"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/donnyriow"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
- Site Footer
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#       URL: "https://twitter.com/donnyriow"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#       URL: "https://www.facebook.com/drwahyudi"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-#    - label: "GitLab"
-#      icon: "fab fa-fw fa-gitlab"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#       URL: "https://www.instagram.com/donnyriow/"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
@@ -282,7 +284,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments:  true
+      comments: # true
       share: true
       related: true
-   
