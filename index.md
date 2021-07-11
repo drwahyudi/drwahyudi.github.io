@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 header:
   overlay_image: /images/siccar2.jpg
-  caption: "Siccar point"
+  caption: "Siccar point, Cockburnspath, Scottland"
   actions:
     - label: "About me"
       url: /about/
