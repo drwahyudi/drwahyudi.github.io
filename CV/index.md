@@ -5,7 +5,7 @@ permalink: /CV/
 classes: wide
 author_profile: true
 ---
-_December 2020_
+_July 2021_
 
 
 # Donny Rio Wahyudi
