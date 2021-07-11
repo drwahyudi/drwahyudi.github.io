@@ -11,8 +11,15 @@ classes: wide
 #  - standard
 ---
 
-# Page under construction
+# The page is still under construction
 <img src="/images/construct.jpg" alt="Alt text"/>
+
+
+
+
+
+
+
 
 
 
