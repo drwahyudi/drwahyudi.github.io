@@ -1,5 +1,5 @@
 ---
-title: "My Nepal fieldwork experience part 1"
+title: "My trip to Nepal for tectonic geomorphology fieldwork"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
