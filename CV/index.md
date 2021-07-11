@@ -21,7 +21,7 @@ MPhil at The University of Edinburgh.
 
 ### Specialized in
 
-Tectonic geomorphology.
+Tectonic and fluvial geomorphology.
 
 
 ### Research interests
@@ -32,7 +32,7 @@ Interaction between tectonics, climate and landscape's topography.
 ## Education
 
 `2009 - 2014`
-__Universitas Padjadjaran:__ BEng in Geology.
+__Universitas Padjadjaran:__ undergraduate in Geology.
 
 `2019 - 2021`
 __The University of Edinburgh:__ MPhil in Geology and Geophysics.
