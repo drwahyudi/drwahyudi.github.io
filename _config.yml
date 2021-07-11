@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Donny"
+  name             : "Donny Wahyudi"
   avatar           : "/images/line_1549728211640.jpg"
-  bio              : "MPhil candidate at the University of Edinburgh. Currently working on tectonic geomorphology of the Himalayan frontal thrust"
-  location         : "Edinburgh, UK"
+  bio              : "MPhil at the University of Edinburgh. Currently working on tectonic geomorphology of the Himalayan frontal thrust"
+  location         : "Bandung, ID"
   email            : #"donny.wahyudi@ed.ac.uk"
   links:
     - label: "Email"
@@ -124,15 +124,15 @@ author:
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/donnyriow"
 
-# Site Footer
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url:
+ Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+       URL: https://twitter.com/donnyriow
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+       URL: https://www.facebook.com/drwahyudi
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
       # url:
@@ -142,9 +142,9 @@ author:
 #    - label: "Bitbucket"
 #      icon: "fab fa-fw fa-bitbucket"
       # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+       URL: https://www.instagram.com/donnyriow/
 
 
 # Reading Files
