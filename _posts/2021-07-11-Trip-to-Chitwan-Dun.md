@@ -1,4 +1,15 @@
-
+---
+title: "Trip to Chitwan Dun"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+author_profile: true
+classes: wide
+#tags:
+#  - Post Formats
+#  - readability
+#  - standard
+---
 # Trip to Chitwan Dun
 _28/09/2019_
 
