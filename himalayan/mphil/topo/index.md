@@ -13,20 +13,26 @@ Recently, I am working on a project that uses topographic analysis, Optically St
 
 
 
-Churia Range
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d307411.2359609768!2d84.4459480336584!3d27.495838697462588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3994b0337772df43%3A0xafa1603d5d63a217!2sChitwan%20National%20Park!5e0!3m2!1sen!2suk!4v1625983998422!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+**Churia Range**
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d279858.37576110824!2d84.54563487996795!3d27.456917827059524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3994b0337772df43%3A0xafa1603d5d63a217!2sChitwan%20National%20Park!5e1!3m2!1sen!2suk!4v1625992906780!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 
 
-Dundwa Range
+
+**Dundwa Range**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d403726.12516652513!2d82.0421927227857!3d27.888237959473223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ff6983ae8e745%3A0x72595bca12834d71!2sSivalik%20Hills!5e1!3m2!1sen!2suk!4v1625984220011!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 
 
-Mohand Range
+
+**Mohand Range**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d251017.57075739067!2d77.75980623518834!3d30.20908511920747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390932ebf529184b%3A0x268a423c983cd9bb!2sMohand%20Range%2C%20Uttarakhand%20247662%2C%20India!5e1!3m2!1sen!2suk!4v1625984164507!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
 
 
 
