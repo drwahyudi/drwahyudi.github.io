@@ -33,3 +33,12 @@ After I graduated my undergraduate degree, I went to Jakarta to work as hydrogeo
 
 <img src="/images/waverley.jpg" alt="The Land Surface Dynamics group of the University of Edinburgh"/>
 *A picture of Edinburgh's old town (including the Waverley station) as seen from Jacob's Ladder*
+
+
+<h2>Some of the activities that I do</h2>
+
+<img src="/images/1.jpg" alt="The Nepal fieldwork"/>
+*From front-to-back, there are Me, Emma, Mark, Mikael and a Baba who rows the boat. Hugh (my supervisor) sat in the front row.*
+ 
+In this picture, we were crossing the East Rapti river to collect the precious sand samples in the Churia range, a young elongated hill built by the collision between the Indian and Asian tectonic plates! The fact that Churia range is a wildlife conservation park is always thrilled me for having fieldwork in ‘*Chitwan National Park*'. There, we met a rhino, ridiculously beautiful birds, crocodiles and probably stalked by a tiger(s)?!
+We became leeches' (**not lychees**) lunch too!
