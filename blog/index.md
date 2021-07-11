@@ -7,5 +7,6 @@ classes: wide
 author_profile: true
 header:
   image: /images/bass.jpg
+  caption: "Bass Rock as seen from Tantalon Castle"
   
 ---
