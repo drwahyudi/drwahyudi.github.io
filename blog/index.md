@@ -1,6 +1,6 @@
 ---
 title: Posts
-layout: single
+layout: posts
 permalink: /_posts/
 #entries_layout: grid
 classes: wide
