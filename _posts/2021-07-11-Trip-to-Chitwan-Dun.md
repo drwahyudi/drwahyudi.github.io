@@ -10,6 +10,12 @@ classes: wide
 #  - readability
 #  - standard
 ---
+
+# Page under construction
+<img src="/images/construct.jpg" alt="Alt text"/>
+
+
+
 # Trip to Chitwan Dun
 _28/09/2019_
 
