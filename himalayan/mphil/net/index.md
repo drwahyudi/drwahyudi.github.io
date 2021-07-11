@@ -52,3 +52,13 @@ Providing robust age constraints for the timing of past tectonic events can offe
 
 
 
+
+<img src="/images/ERNR.png" alt="Alt text"/>
+*Pebbles observations to constrain river's bedload material changes along a tectonically influenced river*
+
+
+
+
+
+<img src="/images/ilustration.png" alt="Alt text"/>
+*The evolution of the river course across the Himalayan Frontal Ranges; interpreted from bedload materials, terraces' sedimentary characteristics, and topography*
