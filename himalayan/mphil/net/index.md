@@ -6,6 +6,7 @@ excerpt: MPhil project2
 author_profile: true
 header:
   image: /images/pebbles2.jpg
+  caption: "Pebbles of the Narayani River, Nepal"
   
 ---
 <h2> Overviews from pebbles' lithology distribution and Optically Stimulated Luminescence dating</h2>
