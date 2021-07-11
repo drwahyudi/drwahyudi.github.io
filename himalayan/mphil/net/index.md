@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Fluvial network evolution in Chitwan Dun
-date: 20-12-2020
+date: 11-07-2021
 excerpt: MPhil project2
+author_profile: true
 header:
   image: /images/pebbles2.jpg
   
