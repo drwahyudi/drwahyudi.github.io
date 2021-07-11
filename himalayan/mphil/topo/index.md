@@ -9,7 +9,7 @@ header:
 
 ---
 
-Recently, I am working on a project that uses topographic analysis, Optically Stimulated Luminescence (OSL) dating on fluvial terraces, and pebbles lithology distribution. The topographic study was conducted across three different ranges in the frontal Himalayas; the Churia range, the Dundwa Range, and the Mohand Range. The location of the three ranges are as follow:
+Recently, I was working on a project that uses topographic analyses, Optically Stimulated Luminescence (OSL) dating on fluvial terraces, and pebbles lithology distribution. The topographic study was conducted across three different ranges in the frontal Himalayas; the Churia range, the Dundwa Range, and the Mohand Range. The location of the three ranges are as follow:
 
 
 
