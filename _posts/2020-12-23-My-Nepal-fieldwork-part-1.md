@@ -86,31 +86,3 @@ After we finished our dinner, we head back to the hostel to get some rest for ou
 <img src="/images/nepal/sim.jpg" alt="Alt text"/>
 
 *To buy a local sim card in Nepal, you have to fill this form and attach a copy of your passport*
-
-
-## Trip to Chitwan Dun
-_28/09/2019_
-
-<img src="/images/nepal/depart.jpg" alt="Alt text"/>
-
-{% include video id="2rSh6uDrN1I" provider="youtube" %}
-
-
-<img src="/images/nepal/view.jpg" alt="Alt text"/>
-
-{% include video id="PGhOLK1K4eE" provider="youtube" %}
-
-
-<img src="/images/nepal/chitwan.jpg" alt="Alt text"/>
-
-{% include video id="1BxH-DwkPlY" provider="youtube" %}
-
-<img src="/images/nepal/roof.jpg" alt="Alt text"/>
-
-
-## Wandering around Chitwan Dun
-_29/09/2019_
-
-## My first OSL sample!
-_01/10/2019_
-
