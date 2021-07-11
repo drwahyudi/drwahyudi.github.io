@@ -5,6 +5,7 @@ date: 26-11-2020
 excerpt: information about me
 header:
   image: /images/about1.JPG
+  caption: "Scottish highland" 
 
 ---
 
