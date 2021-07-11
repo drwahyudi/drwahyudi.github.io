@@ -4,6 +4,7 @@ layout: splash
 author_profile: true
 header:
   image: /images/research.jpg
+  caption: "Kawasoti River terrace, Nepal"
 excerpt: list of my work
 feature_row:
   - image_path: /images/clay.png
