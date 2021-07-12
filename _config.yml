@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:donny.wahyudi@ed.ac.uk"
     - label: "Scholar"
-      icon: "fa fa-google"
+      icon: "<img src="https://img.icons8.com/ios/50/000000/google-scholar--v2.png"/>"
       url: "https://scholar.google.com/citations?hl=en&user=Epf2ypUAAAAJ"
     - label: "ORCID"
       icon: "fab fa-orcid"
