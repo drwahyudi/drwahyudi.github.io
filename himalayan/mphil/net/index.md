@@ -29,14 +29,14 @@ Aside from that, I also measured a sediment log in the outlet channel of the Chi
 
 
 <img src="/images/osl.jpg" alt="Alt text"/>
-__Fig 1.__ *Sand sample collection for the OSL dating*
+__Fig 1.__ *Sand sample collection for the OSL dating.*
 
 
 
 
 
 <img src="/images/rivbank.jpg" alt="Narayani river bank"/>
-__Fig 2.__ *Pebbles of the Narayani river bank*
+__Fig 2.__ *Pebbles of the Narayani river bank.*
 
 
 <h2> Chitwan intermontane valley fluvial network evolution </h2>
@@ -48,7 +48,7 @@ The Himalaya is a tectonically active orogen formed by the ongoing collision bet
 
 
 <img src="/images/himalayan_cs.png" alt="Alt text"/>
-__Fig 3.__ *The overview map showing the Chitwan Dun area as well as north-south geological cross section of the Himalayas*
+__Fig 3.__ *(a) an overview map showing the Chitwan Dun area as well as (b) north-south geological cross section of the Himalayas.*
 
 
 
@@ -61,7 +61,7 @@ Topographic growth due to the convergence across the Sub-Himalaya inevitably int
 
 
 <img src="/images/oldfan.jpg" alt="Alt text"/>
-__Fig 4.__ *The pebblely deposit from a terrace in Chitwan Dun*
+__Fig 4.__ *The pebblely deposit from a terrace in Chitwan Dun.*
 
 
 
@@ -87,11 +87,11 @@ Providing robust age constraints for the timing of past tectonic events can offe
 
 
 <img src="/images/ERNR.png" alt="Alt text"/>
-__Fig 6.__ *Pebbles observations to constrain river's bedload material changes along a tectonically influenced river*
+__Fig 6.__ *Pebbles observations to constrain river's bedload material changes along a tectonically influenced river.*
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <img src="/images/ilustration.png" alt="Alt text"/>
-__Fig 7.__ *The evolution of the river course across the Himalayan Frontal Ranges; interpreted from bedload materials, terraces' sedimentary characteristics, and topography*
+__Fig 7.__ *The evolution of the river course across the Himalayan Frontal Ranges; interpreted from bedload materials, terraces' sedimentary characteristics, and topography.*
