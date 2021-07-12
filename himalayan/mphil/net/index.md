@@ -19,9 +19,14 @@ Aside from that, I also measured a sediment log in the outlet channel of the Chi
 
 
 <img src="/images/osl.jpg" alt="Alt text"/>
-*Sand sample collection for the OSL dating*
+__Fig 1.__ *Sand sample collection for the OSL dating*
 
 
+
+
+
+<img src="/images/rivbank.jpg" alt="Narayani river bank"/>
+__Fig 2.__ *Pebbles of the Narayani river bank*
 
 
 <h2> Chitwan intermontane valley fluvial network evolution </h2>
@@ -31,20 +36,36 @@ The Himalaya is a tectonically active orogen formed by the ongoing collision bet
 
 
 
-<img src="/images/rivbank.jpg" alt="Narayani river bank"/>
-*Pebbles of the Narayani river bank*
+
+<img src="/images/himalayan_cs.png" alt="Alt text"/>
+__Fig 3.__ *The overview map showing the Chitwan Dun area as well as north-south geological cross section of the Himalayas*
+
 
 
 
 
 Topographic growth due to the convergence across the Sub-Himalaya inevitably interacts with rivers flowing downstream from the Himalayan range. River channels deflected as they are blocked by the topographic growth and forced to flow parallel to the ranges, supplying sediment to the intermontane valley before exiting the plains (Burbank et al., 1996). Terraces are often preserved within the valley as the topography uplifted (Dey et al., 2016a; Divyadarshini et al., 2020; Thakur et al., 2014). Series of water gaps and wind gaps may also be preserved along the ridgeline, indicating the course of the antecedent river and the sense of fault propagation (Keller et al., 1998, 1999). Alternatively, gorges are formed where rivers retain their course, preserving terraces as they incised through the uplifting topography and record the shortening and rock uplift rates over the last few thousand years as demonstrated across the Sub-Himalaya (Dey et al., 2016a; Divyadarshini et al., 2020; Gavillot et al., 2016; Lavé & Avouac, 2000; Thakur et al., 2007, 2014). Therefore, intermontane valleys are essential in understanding the interaction between tectonics and erosion as they proved to record the ongoing tectono-geomorphic processes along the frontal Himalaya (Bookhagen et al., 2006; Dey et al., 2016a, 2016b; Divyadarshini et al., 2020; Gavillot et al., 2016; Lavé & Avouac, 2000, 2001).
-Currently, the Sub-Himalayan region in central Nepal has been a focus of attention as previous studies suggested that stress is accumulated within the Chitwan Dun (Fig. 1) region after the 2015 Gorkha earthquake (Avouac et al., 2015; Bilham, 2015; Bollinger et al., 2016). Unfortunately, unlike Intermontane valleys in the north-western Himalaya, such as Dehra Dun, Kangra basin, and those around the Jammu-Kashmir region, which have been well studied (Dey et al., 2016a, 2016b; Gavillot et al., 2016; Thakur et al., 2007), the intermontane valley of Chitwan Dun is relatively less studied. Observations on deformed terraces, stratigraphy, and basin-fill have been carried out to constrain tectonic development of the Chitwan Dun (Kimura, 1995, 1999; Tokuoka et al., 1988). However, chronological constraints on those study are less accurate considering the use of soil colour, surface weathering, and degree of dissection to correlate the relative age with another piggyback basin (e.g., Dang Valley in Western Nepal), which is highly dependable on various condition such as climate, parent material and soil hydrology (Iwata & Nakata, 1985; Kimura, 1994; Yamanaka & Yagi, 1984). Another work at the Bagmati Valley, east of the Chitwan Dun, uses the optically stimulated luminescence to date the terraces’ age, leading to shortening rate constrain of this region at ~20 ± 1 mm a―1 (Lavé & Avouac, 2000). More recent work at the Chitwan Dun region has used the optically stimulated dating of geomorphic units within the area to reconstruct the systematic evolution history of landforms in Chitwan Dun, which significantly improves the timing constraint of the landform evolution (Divyadarshini et al., 2020). 
+
 
 
 
 
 <img src="/images/oldfan.jpg" alt="Alt text"/>
-*The pebblely deposit from a terrace in Chitwan Dun*
+__Fig 4.__ *The pebblely deposit from a terrace in Chitwan Dun*
+
+
+
+
+
+Currently, the Sub-Himalayan region in central Nepal has been a focus of attention as previous studies suggested that stress is accumulated within the Chitwan Dun (Fig. 1) region after the 2015 Gorkha earthquake (Avouac et al., 2015; Bilham, 2015; Bollinger et al., 2016). Unfortunately, unlike Intermontane valleys in the north-western Himalaya, such as Dehra Dun, Kangra basin, and those around the Jammu-Kashmir region, which have been well studied (Dey et al., 2016a, 2016b; Gavillot et al., 2016; Thakur et al., 2007), the intermontane valley of Chitwan Dun is relatively less studied. Observations on deformed terraces, stratigraphy, and basin-fill have been carried out to constrain tectonic development of the Chitwan Dun (Kimura, 1995, 1999; Tokuoka et al., 1988). However, chronological constraints on those study are less accurate considering the use of soil colour, surface weathering, and degree of dissection to correlate the relative age with another piggyback basin (e.g., Dang Valley in Western Nepal), which is highly dependable on various condition such as climate, parent material and soil hydrology (Iwata & Nakata, 1985; Kimura, 1994; Yamanaka & Yagi, 1984). Another work at the Bagmati Valley, east of the Chitwan Dun, uses the optically stimulated luminescence to date the terraces’ age, leading to shortening rate constrain of this region at ~20 ± 1 mm a―1 (Lavé & Avouac, 2000). More recent work at the Chitwan Dun region has used the optically stimulated dating of geomorphic units within the area to reconstruct the systematic evolution history of landforms in Chitwan Dun, which significantly improves the timing constraint of the landform evolution (Divyadarshini et al., 2020). 
+
+
+
+
+
+<img src="/images/map.png" alt="Alt text"/>
+__Fig 5.__ *Map of river terraces within the Chitwan Dun area. This map helps us to interpret the past course of the south flowing river in the Himalayan Frontal Range.*
+
 
 
 
@@ -56,11 +77,11 @@ Providing robust age constraints for the timing of past tectonic events can offe
 
 
 <img src="/images/ERNR.png" alt="Alt text"/>
-*Pebbles observations to constrain river's bedload material changes along a tectonically influenced river*
+__Fig 6.__ *Pebbles observations to constrain river's bedload material changes along a tectonically influenced river*
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <img src="/images/ilustration.png" alt="Alt text"/>
-*The evolution of the river course across the Himalayan Frontal Ranges; interpreted from bedload materials, terraces' sedimentary characteristics, and topography*
+__Fig 7.__ *The evolution of the river course across the Himalayan Frontal Ranges; interpreted from bedload materials, terraces' sedimentary characteristics, and topography*
