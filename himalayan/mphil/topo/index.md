@@ -44,7 +44,7 @@ The bulk of the crustal shortening across the Himalayas is accommodated across t
 
 
 <img src="/images/chi/ksnmohand.png" alt="Alt text"/>
-*Mapping of normalised (θ=.45) channel steepness*
+__Fig 1.__ *Mapping of normalised (θ=.45) channel steepness*
 
 
 
@@ -57,7 +57,7 @@ The ALOS PALSAR 12.5 m resolution DEMs were chosen to obtain the spatial channel
 
 
 <img src="/images/chi/chi3.png" alt="Alt text"/>
-*Chi profiles of the basin along the thrust fold ridge*
+__Fig 2.__ *Chi profiles of the basin along the thrust fold ridge*
 
 
 
@@ -70,7 +70,7 @@ River channel steepness (_ksn_), the distribution of knickpoints, and channel co
 
 
 <img src="/images/chi/concavity_partition_mohand.png" alt="Alt text"/>
-*Chi profiles showing the partition of channel concavity above, and below the knickpoint with their underlying lithology*
+__Fig 3.__ *Chi profiles showing the partition of channel concavity above, and below the knickpoint with their underlying lithology*
 
 
 
@@ -83,13 +83,13 @@ I also performed a radar backscatter analysis using a web based GIS, _Google Ear
 
 
 <img src="/images/chi/backscatter_mohand_basin_54.png" alt="Alt text"/>
-*Backscattering profile along channel of Basin 54 in Mohand ridge*
+__Fig 4.__ *Backscattering profile along channel of Basin 54 in Mohand ridge*
 
 
 
 
 
-Here is a talk from me about my current project:
+***Here is a talk from me about my current project:***
 
 
 
@@ -109,11 +109,11 @@ The published version of this researsh entitled **_Progressive evolution of thru
  
  
  <img src="/images/web.PNG" alt="_Geomorphology_, Elsevier"/>
-_Web view in Geomorphology, ELSEVIER_
+__Fig 5.__ _Web view in Geomorphology, ELSEVIER_
 
 
 
 
  
  <img src="/images/geomorph.png" alt="Thumbnail view"/>
-_Proof view_
+__Fig 6.__ _Proof view of the article_
