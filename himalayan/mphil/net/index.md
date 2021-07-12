@@ -22,7 +22,7 @@ Aside from that, I also measured a sediment log in the outlet channel of the Chi
 **Location of studies:**
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452508.94823712937!2d84.077416587609!3d27.617511487717653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3994439ad1ca5a8d%3A0x6c5e40f75e1f474f!2sChitawan%2C%20Nepal!5e0!3m2!1sen!2suk!4v1626052316334!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d425405.5476916763!2d84.077416587609!3d27.617511487717653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3994439ad1ca5a8d%3A0x6c5e40f75e1f474f!2sChitawan%2C%20Nepal!5e1!3m2!1sen!2suk!4v1626052542376!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 
