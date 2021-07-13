@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About me
+class: wide
 date: 12-07-2021
 excerpt: information about me
 header:
