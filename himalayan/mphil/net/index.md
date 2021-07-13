@@ -4,6 +4,7 @@ title: Fluvial network evolution in Chitwan Dun
 date: 11-07-2021
 excerpt: MPhil project2
 author_profile: true
+classes: wide
 header:
   image: /images/pebbles2.jpg
   caption: "Pebbles of the Narayani River, Nepal"
