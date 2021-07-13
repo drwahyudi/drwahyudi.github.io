@@ -7,6 +7,7 @@ author_profile: true
 header:
   image: /images/churiarange.png
   caption: "Hillshaded DEM of the Churia Range"
+classes: wide
 
 ---
 
