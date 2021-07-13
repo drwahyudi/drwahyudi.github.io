@@ -109,6 +109,13 @@ The published version of this researsh entitled **_Progressive evolution of thru
  
  
  
+ 
+ <a href="https://www.scimagojr.com/journalsearch.php?q=26979&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26979" alt="SCImago Journal &amp; Country Rank"  /></a>
+ 
+ 
+ 
+ 
+ 
  <img src="/images/web.PNG" alt="_Geomorphology_, Elsevier"/>
 __Fig 5.__ _Web view in Geomorphology, ELSEVIER._
 
@@ -121,5 +128,3 @@ __Fig 6.__ _Proof view of the article._
 
 
 
-
-<a href="https://www.scimagojr.com/journalsearch.php?q=26979&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26979" alt="SCImago Journal &amp; Country Rank"  /></a>
