@@ -5,7 +5,8 @@ date: 12-07-2021
 excerpt: information about me
 header:
   image: /images/about1.JPG
-  caption: "Scottish highland" 
+  caption: "Scottish highland"
+author_profile: true
 
 ---
 
