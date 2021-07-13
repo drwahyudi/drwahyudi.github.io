@@ -20,7 +20,7 @@ title                    : "Donny R. Wahyudi"
 title_separator          : "-"
 subtitle                 : "Geologist, geomorphologist" # site tagline that appears below site title in masthead
 name                     : "Donny Rio Wahyudi"
-description              : "I am a geologist whose now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
+description              : "I am a geologist who is now studying Geomorphology in the University of Edinburgh. I am interested at earth's landscapes and their interaction with surface processes, tectonic and climate."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
