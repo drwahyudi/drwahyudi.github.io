@@ -31,11 +31,12 @@ Interaction between tectonics, climate and landscape's topography.
 
 ## Education
 
-`2009 - 2014`
-__Universitas Padjadjaran:__ undergraduate in Geology.
-
 `2019 - 2021`
 __The University of Edinburgh:__ MPhil in Geology and Geophysics.
+
+
+`2009 - 2014`
+__Universitas Padjadjaran:__ undergraduate in Geology.
 
 
 ## Awards
