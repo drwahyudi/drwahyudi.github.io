@@ -62,7 +62,7 @@ Topographic growth due to the convergence across the Sub-Himalaya inevitably int
 
 
 <img src="/images/oldfan.jpg" alt="Alt text"/>
-__Fig 4.__ *The pebblely deposit from a terrace in Chitwan Dun.*
+__Fig 4.__ *The pebblely deposit from a river terrace in Chitwan Dun.*
 
 
 
