@@ -38,7 +38,7 @@ Recently, I was working on a project that uses topographic analyses, Optically S
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<h2>Topographic analysis</h2>
+<h2>Topographic analyses</h2>
 The bulk of the crustal shortening across the Himalayas is accommodated across the Main Frontal Thrust (MFT), forming the topographic ridges of the Siwalik Hills. Here, I quantify topographic metrics to document the geomorphic response to progressive shortening. I use the integral method of channel profile analysis to assess the topographic response to the development of thrust anticline ridges in the eastern and western Churia, Dundwa, and Mohand Ranges. 
 
 
