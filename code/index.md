@@ -15,7 +15,7 @@ feature_row:
     url: "/gee-bs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  #- image_path: /images/padang/mappga.PNG
+  #- image_path: /images/sentinel.JPG
   #  alt: "Slope stability"
   #  title: "Various Models of Slope Stability due to Earthquake Activity in Gunung Tigo, Padang Pariaman, West Sumatera, Indonesia"
   #  excerpt: "**A project from my undergraduate degree**: This project aims to observe the relation between earthquake induced *Peak Ground Acceleration* and the safety factor of a slope."
