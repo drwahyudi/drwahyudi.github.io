@@ -1,6 +1,6 @@
 <h1>1.	Google Earth Engine code for backscatter analysis</h1>
 
-```html
+```liquid
 // Calculate the NDVI from Landsat 8 data
 var dataset = ee.ImageCollection('LANDSAT/LC08/C01/T1_8DAY_NDVI')
                   .filterDate('2018-01-01', '2020-01-31');
