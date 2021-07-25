@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: splash
+classes: wide
 author_profile: true
 header:
   image: /images/research.jpg
