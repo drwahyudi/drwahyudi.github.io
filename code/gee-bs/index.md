@@ -1,4 +1,15 @@
+---
+title: Google Earth Engine Code
+layout: single
+author_profile: true
+header:
+  image: /images/gee.png
+  
+---
+
 <h1>1.	Google Earth Engine code for backscatter analysis</h1>
+This is the template code for the backscatter for channel roughness analysis using the _Google Earth Engine_. Please adjust it to your needs. Or, you can go to  <a href="https://code.earthengine.google.com/3ac99827537c2cc616b107751ad7f26d">*https://code.earthengine.google.com/3ac99827537c2cc616b107751ad7f26d*</a>.
+
 
 ```java
 // Calculate the NDVI from Landsat 8 data
