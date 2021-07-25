@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 author_profile: true
 header:
-  image: /images/research.jpg
+  image: /images/code.jpg
   caption: "Kawasoti River terrace, Nepal"
 excerpt: list of my work
 feature_row:
