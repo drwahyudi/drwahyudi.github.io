@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 header:
   image: /images/code.jpg
-  caption: "Kawasoti River terrace, Nepal"
+  caption: "Pease bay, Scotland"
 excerpt: list of my work
 feature_row:
   - image_path: /images/clay.png
