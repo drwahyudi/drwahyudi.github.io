@@ -1,9 +1,10 @@
 ---
 title: Google Earth Engine Code
 layout: single
+classes: wide
 author_profile: true
 header:
-  image: /images/gee.png
+  image: /images/gee.jpg
   
 ---
 
