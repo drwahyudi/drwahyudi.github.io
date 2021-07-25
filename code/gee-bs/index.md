@@ -1,5 +1,5 @@
 ---
-title: Google Earth Engine Code
+title: Radar backscatter for channel roughness analysis
 layout: single
 classes: wide
 author_profile: true
