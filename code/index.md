@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 author_profile: true
 header:
-  image: /images/code.jpg
+  image: /images/codes.jpg
   caption: "Pease bay, Scotland"
 excerpt: list of my work
 feature_row:
