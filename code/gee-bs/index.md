@@ -13,7 +13,7 @@ header:
 
 
 
-This is a template code for the backscatter for channel roughness analysis using the _Google Earth Engine_. Please adjust it to your need. Or, you can go to  <a href="https://code.earthengine.google.com/3ac99827537c2cc616b107751ad7f26d">*https://code.earthengine.google.com/3ac99827537c2cc616b107751ad7f26d*</a>.
+This is a template code for the backscatter for channel roughness analysis using the _Google Earth Engine_. Please adjust it to your need. Or, you can go to  <a href="https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3">*https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3*</a>.
 
 
 
