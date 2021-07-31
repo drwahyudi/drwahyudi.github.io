@@ -8,7 +8,7 @@ header:
   
 ---
 
-<h1>1.	Google Earth Engine code for backscatter analysis</h1>
+<h1>Google Earth Engine code for backscatter analysis</h1>
 
 
 
@@ -16,6 +16,8 @@ header:
 This is a template code for the backscatter for channel roughness analysis using the _Google Earth Engine_. Please adjust it to your need. Or, you can go to  <a href="https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3">*https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3*</a>.
 
 
+
+<h2>Calculate the NDVI for slecting windows in determining radar bounce values</h2>
 
 
 First of all, generate an NDVI image which then will be draped above the Satellite image. This is to ensure that the polygons that we use in this analysis do not exceed the channel bank, hence resulting in distorded signal in radar bounce due to vegetation.
