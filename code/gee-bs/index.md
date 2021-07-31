@@ -47,10 +47,11 @@ var colorizedVis = {
 Map.centerObject(moh, 11);
 Map.addLayer(ndvi_crop, colorizedVis, 'NDVI');
 ```
+Now let's explore Sentinel-1 data
+
 
 ```java
-// Now let's explore Sentinel-1 data
-// Filter the collection for the VV product from the Ascending track
+//Filter the collection for the VV product from the Ascending track
 var collectionVVas = ee.ImageCollection('COPERNICUS/S1_GRD')
     .filter(ee.Filter.eq('instrumentMode', 'IW'))
     .filter(ee.Filter.listContains('transmitterReceiverPolarisation', 'VV'))
@@ -67,7 +68,9 @@ var collectionVVdes = ee.ImageCollection('COPERNICUS/S1_GRD')
     .filterBounds(mohand)
     .select(['VV']);
 print(collectionVVdes);
-
+```
+Add the Sentinel 1 data to the map layer.
+```java
 // Adding the VV Ascending layer to the map
 var VVas = collectionVVas.median();
 //Map.addLayer(VVas, {min: -14, max: -1}, 'VVas');
@@ -75,7 +78,9 @@ var VVas = collectionVVas.median();
 // Adding the VV Descending layer to the map
 var VVdes = collectionVVdes.median();
 //Map.addLayer(VVdes, {min: -20, max: -7}, 'VVdes');
+```
 
+```java
 // Create a 3 band stack by selecting from different periods (in my case this is the dry season so the channel will exposed)
 var VV1 = ee.Image(collectionVVas.filterDate('2017-10-30', '2018-05-01').median());
 var VV2 = ee.Image(collectionVVas.filterDate('2018-10-30', '2019-05-01').median());
@@ -83,7 +88,9 @@ var VV3 = ee.Image(collectionVVas.filterDate('2019-10-30', '2020-05-01').median(
 var VV41 = ee.Image(collectionVVas.filterDate('2016-10-30', '2017-05-01').median());
 var VV51 = ee.Image(collectionVVas.filterDate('2015-10-30', '2016-05-01').median());
 var VV61 = ee.Image(collectionVVas.filterDate('2014-10-30', '2015-05-01').median());
+```
 
+```java
 //Speckle filtering/smoothing
 // Smooth the image by convolving with the boxcar kernel.
 // Define a boxcar or low-pass kernel.
@@ -96,10 +103,6 @@ var VV3n = VV3.convolve(boxcar);
 var VV41n = VV41.convolve(boxcar);
 var VV51n = VV51.convolve(boxcar);
 var VV61n = VV61.convolve(boxcar);
-
-var s1 = ee.ImageCollection([VV1n, VV2n, VV3n, VV41n, VV51n, VV61n]).median();
-//Map.addLayer(s1, {min: -14, max: -1}, 'S1');
-
 
 // Create a 3 band stack by selecting from different periods (months)
 var VV4 = ee.Image(collectionVVdes.filterDate('2021-06-01', '2021-06-30').median());
@@ -114,11 +117,17 @@ var boxcar = ee.Kernel.square({radius: 1.5, units: 'pixels', normalize: true});
 var VV4n = VV4.convolve(boxcar);
 //var VV5n = VV5.convolve(boxcar);
 //var VV6n = VV6.convolve(boxcar);
+```
 
+```java
 // Create band stack
 var st_vvasc = VV1n.addBands(VV2n).addBands(VV3n);
 print('Stacked VV_ASC', st_vvasc);
+```
 
+```java
+var s1 = ee.ImageCollection([VV1n, VV2n, VV3n, VV41n, VV51n, VV61n]).median();
+//Map.addLayer(s1, {min: -14, max: -1}, 'S1');
 //var st_vvdes = VV4n.addBands(VV5n).addBands(VV6n);
 //print('Stacked VV_DES', st_vvdes);
 
@@ -127,37 +136,6 @@ print('Stacked VV_ASC', st_vvasc);
 //Add to map
 Map.addLayer(VV4n, {min: -12, max: -7}, 'Sentinel-1 Flooding event');
 //Map.addLayer(st_vvasc, {min: -12, max: -7}, 'Sentinel-1 Dry Season');
-
-//Add mn basin to map
-//var mn_basin = ee.FeatureCollection('users/donnywahyudi/mohand_mn_basin');
-//mn_basin = mn_basin.geometry();
-Map.addLayer(shed, {color: '#F1FF99', pointRadius: 3, strokeWidth: 10, opacity: 0.1}, 'Watershed');
-
-//add agriculture
-//var agriculture = ee.FeatureCollection('users/donnywahyudi/agriculture');
-//a1 = agriculture.geometry();
-Map.addLayer(agr, {color: '#A9FF99', pointRadius: 3, strokeWidth: 10}, 'Agricultures');
-
-//villages
-//var villa = ee.FeatureCollection('users/donnywahyudi/Villages');
-//vil = villa.geometry();
-Map.addLayer(vil, {color: 'red', pointRadius: 3, strokeWidth: 10}, 'Villages');
-
-//Add channel to map
-Map.addLayer(channels, {color: '#3399ff', pointRadius: 3, strokeWidth: 10}, 'Channels');
-Map.addLayer(ch1, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 1');
-Map.addLayer(ch2, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 2');
-Map.addLayer(ch3, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 3');
-Map.addLayer(ch4, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 4');
-Map.addLayer(ch5, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 5');
-Map.addLayer(ch6, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 6');
-Map.addLayer(ch7, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 7');
-Map.addLayer(ch8, {color: 'blue', pointRadius: 3, strokeWidth: 10}, 'Channel 8');
-
-//var ss = ee.FeatureCollection([ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8]);
-//Map.addLayer(ss, {color: 'red', pointRadius: 3, strokeWidth: 10}, 'All Channels');
-
-Map.addLayer(f1, {color: '#8D10FC', pointRadius: 3, strokeWidth: 10}, 'Potentially flood');
 
 
 var optionsvv = {
@@ -170,8 +148,9 @@ var optionsvv = {
   series: {
     0: {color: '970F0F'},
     }};
+```
 
-//var loc = [uppersiwalik, midsiwalik, outlet]; XXX
+```java
 
 // Choose bands to include and define feature collection to use
 var subset = st_vvasc.select('VV', 'VV_1', 'VV_2');
