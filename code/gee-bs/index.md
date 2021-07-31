@@ -1,5 +1,5 @@
 ---
-title: Radar backscatter for channel roughness analysis
+title: Radar backscatter derived channel roughness analysis
 layout: single
 classes: wide
 author_profile: true
@@ -8,7 +8,6 @@ header:
   
 ---
 
-<h1>Google Earth Engine code for backscatter analysis</h1>
 
 
 
