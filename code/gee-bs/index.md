@@ -146,7 +146,6 @@ print('bs54',plot54);
 Plot the results in R
 
 ```R
-#mohand south backscattering
 bs = read.csv("bsmohand54.csv",TRUE,",")
 head(bs)
 ggplot(data = bs, mapping = aes(x = win, y = med, ymin = min, ymax = max, color = pixel_count)) + 
