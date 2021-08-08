@@ -172,3 +172,6 @@ ggplot(data = bs, mapping = aes(x = win, y = med, ymin = min, ymax = max, color 
   ggsave("bsm54.svg", width = 20, height = 10, units = "cm", dpi = 500) +
   ggsave("bsm54.jpg", width = 20, height = 10, units = "cm", dpi = 500)
 ```
+Here is the result.
+
+<img src="/images/R.JPG" alt="Alt text"/>
