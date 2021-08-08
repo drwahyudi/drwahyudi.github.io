@@ -23,8 +23,6 @@ First of all, generate an NDVI image which then will be draped above the Satelli
 
 
 ```java
-
-// Calculate the NDVI from Landsat 8 data
 var dataset = ee.ImageCollection('LANDSAT/LC08/C01/T1_8DAY_NDVI')
                   .filterDate('2018-01-01', '2020-01-31');
 var colorized = dataset.select('NDVI');
@@ -43,7 +41,7 @@ var colorizedVis = {
     '012E01', '011D01', '011301'
   ],
 };
-// Let's centre the map view over Mohand
+// Let's centre the map view over the area
 Map.centerObject(moh, 11);
 Map.addLayer(ndvi_crop, colorizedVis, 'NDVI');
 ```
