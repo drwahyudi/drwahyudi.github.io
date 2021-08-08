@@ -47,8 +47,9 @@ var colorizedVis = {
 Map.centerObject(moh, 11);
 Map.addLayer(ndvi_crop, colorizedVis, 'NDVI');
 ```
-Now let's explore Sentinel-1 data
 
+
+Next, let's explore and import the Sentinel-1 data. We are going to use the VV polarisation since it demonstrated best response for channel bed roughness analysis (Purinton et al., 2020).
 
 ```java
 //Filter the collection for the VV product from the Ascending track
@@ -59,87 +60,57 @@ var collectionVVas = ee.ImageCollection('COPERNICUS/S1_GRD')
     .filterBounds(mohand)
     .select(['VV']);
 print(collectionVVas);
-
-// Filter the collection for the VV product from the descending track
-var collectionVVdes = ee.ImageCollection('COPERNICUS/S1_GRD')
-    .filter(ee.Filter.eq('instrumentMode', 'IW'))
-    .filter(ee.Filter.listContains('transmitterReceiverPolarisation', 'VV'))
-    .filter(ee.Filter.eq('orbitProperties_pass', 'DESCENDING'))
-    .filterBounds(mohand)
-    .select(['VV']);
-print(collectionVVdes);
 ```
-Add the Sentinel 1 data to the map layer.
+Now let's show the Sentinel 1 data to the map layer.
 ```java
-// Adding the VV Ascending layer to the map
 var VVas = collectionVVas.median();
-//Map.addLayer(VVas, {min: -14, max: -1}, 'VVas');
-
-// Adding the VV Descending layer to the map
-var VVdes = collectionVVdes.median();
-//Map.addLayer(VVdes, {min: -20, max: -7}, 'VVdes');
+Map.addLayer(VVas, {min: -14, max: -1}, 'VVas');
 ```
 
+
+Channel bed analysis works best during the dry season where no water flowing through the channel (that is where the channel bed exposed). In order to do that, we are going to filter our Sentinel-1 data to the desired time frame, the dry season. We are also going to create a '3 band stack' through different dry season periods.
+
 ```java
-// Create a 3 band stack by selecting from different periods (in my case this is the dry season so the channel will exposed)
 var VV1 = ee.Image(collectionVVas.filterDate('2017-10-30', '2018-05-01').median());
 var VV2 = ee.Image(collectionVVas.filterDate('2018-10-30', '2019-05-01').median());
 var VV3 = ee.Image(collectionVVas.filterDate('2019-10-30', '2020-05-01').median());
-var VV41 = ee.Image(collectionVVas.filterDate('2016-10-30', '2017-05-01').median());
-var VV51 = ee.Image(collectionVVas.filterDate('2015-10-30', '2016-05-01').median());
-var VV61 = ee.Image(collectionVVas.filterDate('2014-10-30', '2015-05-01').median());
 ```
 
+
+Apply Speckle filtering/smoothing.
+Smooth the image by convolving with the boxcar kernel.
+
 ```java
-//Speckle filtering/smoothing
-// Smooth the image by convolving with the boxcar kernel.
-// Define a boxcar or low-pass kernel.
-//A 3X3 Boxcar filter
 var boxcar = ee.Kernel.square({radius: 1.5, units: 'pixels', normalize: true});
 
 var VV1n = VV1.convolve(boxcar);
 var VV2n = VV2.convolve(boxcar);
 var VV3n = VV3.convolve(boxcar);
-var VV41n = VV41.convolve(boxcar);
-var VV51n = VV51.convolve(boxcar);
-var VV61n = VV61.convolve(boxcar);
-
-// Create a 3 band stack by selecting from different periods (months)
-var VV4 = ee.Image(collectionVVdes.filterDate('2021-06-01', '2021-06-30').median());
-//var VV5 = ee.Image(collectionVVdes.filterDate('2013-06-01', '2013-06-30').median());
-//var VV6 = ee.Image(collectionVVdes.filterDate('2013-06-01', '2013-06-30').median());
-// Speckle filtering/smoothing
-// Smooth the image by convolving with the boxcar kernel.
-// Define a boxcar or low-pass kernel.
-// A 3X3 Boxcar filter
-var boxcar = ee.Kernel.square({radius: 1.5, units: 'pixels', normalize: true});
-
-var VV4n = VV4.convolve(boxcar);
-//var VV5n = VV5.convolve(boxcar);
-//var VV6n = VV6.convolve(boxcar);
 ```
 
+
+Create a band stack from different time frame.
+
 ```java
-// Create band stack
 var st_vvasc = VV1n.addBands(VV2n).addBands(VV3n);
 print('Stacked VV_ASC', st_vvasc);
+Map.addLayer(st_vvasc, {min: -12, max: -7}, 'Sentinel-1 Dry Season');
 ```
 
+
+Choose bands to include and define feature collection to use as the backscatter values collection windows.
+
 ```java
-var s1 = ee.ImageCollection([VV1n, VV2n, VV3n, VV41n, VV51n, VV61n]).median();
-//Map.addLayer(s1, {min: -14, max: -1}, 'S1');
-//var st_vvdes = VV4n.addBands(VV5n).addBands(VV6n);
-//print('Stacked VV_DES', st_vvdes);
-
-//------------------------------------------------------------------------------------------------------
-
-//Add to map
-Map.addLayer(VV4n, {min: -12, max: -7}, 'Sentinel-1 Flooding event');
-//Map.addLayer(st_vvasc, {min: -12, max: -7}, 'Sentinel-1 Dry Season');
+var subset = st_vvasc.select('VV', 'VV_1', 'VV_2');
+var bs54 = ee.FeatureCollection([d1, d2, d3, d4, d5, d6, d7, d8, d9, d10, d11, d12, d13, d14, d15, d16, d17, d18, d19, d20, d21, d22, d23, d24, d25, d26, d28, d29, d30, d31, d32, d33, d34, d35, d36, d37, d38, d39, d40, d41, d42, d43, d44, d45, d46, d47, d48, d49, d50, d51, d52, d53, d54, d55, d56]);
+```
 
 
+Define the chart to present the radar backscatter values along the channel.
+
+```java
 var optionsvv = {
-  title: 'Backscatter Mohand',
+  title: 'Channel Roughness',
   hAxis: {title: 'Band'},
   vAxis: {title: 'Backscatter coefficient Sigma^0_VV (dB)'},
   lineWidth: 2,
@@ -150,141 +121,14 @@ var optionsvv = {
     }};
 ```
 
+
+Generate the chart.
+
 ```java
-
-// Choose bands to include and define feature collection to use
-var subset = st_vvasc.select('VV', 'VV_1', 'VV_2');
-var bs54 = ee.FeatureCollection([d1, d2, d3, d4, d5, d6, d7, d8, d9, d10, d11, d12, d13, d14, d15, d16, d17, d18, d19, d20, d21, d22, d23, d24, d25, d26, d28, d29, d30, d31, d32, d33, d34, d35, d36, d37, d38, d39, d40, d41, d42, d43, d44, d45, d46, d47, d48, d49, d50, d51, d52, d53, d54, d55, d56]);
-var bs27 = ee.FeatureCollection([a0, a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13, a14, a15, a16, a17, a18, a19, a20, a21, a22, a23, a24, a25, a26, a27, a28, a29, a30, a31, a32, a33, a34, a35, a36, a37, a38, a39, a40]);
-var bs34 = ee.FeatureCollection([b0, b1, b2, b3, b4, b5, b6, b7, b8, b9, b10, b11, b12, b13, b14, b15, b16, b17, b18, b19, b20, b21, b22, b23, b24, b25, b26]);
-
-// Create the chart and set options.
-// VV Plot
-//var plot= ui.Chart.image.regions(
-//    st_vvasc, loc, ee.Reducer.mean(), 30, 'label')
-//        .setChartType('LineChart')
-//        .setOptions(optionsvv);
-// Display the chart.
-//print('Backscatter VV Asc',plot);
-
-//VV plot
-//var plot1 = ui.Chart.image.regions(
-//    st_vvdes, loc, ee.Reducer.mean(), 30, 'label')
-//        .setChartType('LineChart')
-//        .setOptions(optionsvv);
-// Display the chart.
-//print('Backscatter VV Des',plot1);
-
-// Create the chart and set options.
-// VV Plot
-var plot27 = ui.Chart.image.regions(
-    subset, bs27, ee.Reducer.median(), 10, 'label')
-        .setChartType('LineChart')
-        .setOptions(optionsvv);
-// Display the chart.
-print('BS27',plot27);
-
-//VV plot
-var plot271 = ui.Chart.image.regions(
-    subset, bs27, ee.Reducer.count(), 10, 'label')
-        .setChartType('LineChart')
-        .setOptions(optionsvv);
-// Display the chart.
-print('BS27 count',plot271);
-
-var plot34 = ui.Chart.image.regions(
-    subset, bs34, ee.Reducer.median(), 10, 'label')
-        .setChartType('LineChart')
-        .setOptions(optionsvv);
-// Display the chart.
-print('bs34',plot34);
-
-//VV plot
-var plot341 = ui.Chart.image.regions(
-    subset, bs34, ee.Reducer.count(), 10, 'label')
-        .setChartType('LineChart')
-        .setOptions(optionsvv);
-// Display the chart.
-print('bs34 count',plot341);
-
 var plot54 = ui.Chart.image.regions(
     subset, bs54, ee.Reducer.median(), 10, 'label')
         .setChartType('LineChart')
         .setOptions(optionsvv);
 // Display the chart.
 print('bs54',plot54);
-
-//VV plot
-var plot541 = ui.Chart.image.regions(
-    subset, bs54, ee.Reducer.count(), 10, 'label')
-        .setChartType('LineChart')
-        .setOptions(optionsvv);
-// Display the chart.
-print('bs54 count',plot541);
-
-
-
-// set position of panel
-var legend = ui.Panel({
-  style: {
-    position: 'bottom-left',
-    padding: '10px 20px'
-  }
-});
-
-// Create legend title
-var legendTitle = ui.Label({
-  value: 'Legend',
-  style: {
-    fontWeight: 'bold',
-    fontSize: '18px',
-    margin: '0 0 4px 0',
-    padding: '0'
-    }
-});
-
-// Add the title to the panel
-legend.add(legendTitle);
-    
-// Creates and styles 1 row of the legend.
-var makeRow = function(color, name) {
-      
-      // Create the label that is actually the colored box.
-      var colorBox = ui.Label({
-        style: {
-          backgroundColor: '#' + color,
-          // Use padding to give the box height and width.
-          padding: '8px',
-          margin: '0 0 4px 0'
-        }
-      });
-      
-      // Create the label filled with the description text.
-      var description = ui.Label({
-        value: name,
-        style: {margin: '0 0 4px 6px'}
-      });
-      
-      // return the panel
-      return ui.Panel({
-        widgets: [colorBox, description],
-        layout: ui.Panel.Layout.Flow('horizontal')
-      });
-};
-
-
-//  Palette with the colors
-var palette =['FF0000', 'A9FF99', '1500ff', 'F1FF99', '8610FC'];
-
-// name of the legend
-var names = ['Villages','Agricultures','Channels', 'Watersheds', 'Flood potential'];
-
-// Add color and and names
-for (var i = 0; i < 5; i++) {
-  legend.add(makeRow(palette[i], names[i]));
-  }  
-
-// add legend to map (alternatively you can also print the legend to the console)  
-Map.add(legend);  
-  
 ```
