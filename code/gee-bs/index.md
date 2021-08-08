@@ -19,7 +19,7 @@ This is a template code for the backscatter for channel roughness analysis using
 <h3>Calculate the NDVI for slecting windows in determining radar bounce values</h3>
 
 
-First of all, generate an NDVI image which then will be draped above the Satellite image. This is to ensure that the polygons that we use in this analysis do not exceed the channel bank, hence resulting in distorded signal in radar bounce due to vegetation.
+First of all, generate an NDVI image which then will be draped above the Satellite image. This is to ensure that the polygons that we use in this analysis do not exceed the channel bank, hence resulting in distorted signal in radar bounce due to vegetation.
 
 
 ```java
