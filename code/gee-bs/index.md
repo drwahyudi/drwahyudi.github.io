@@ -56,6 +56,9 @@ Value: n (0,1,2,...)
 
 
 
+<img src="/images/prop.JPG" alt="Alt text"/>
+
+
 Next, let's explore and import the Sentinel-1 data. We are going to use the VV polarisation since it demonstrated best response for channel bed roughness analysis (Purinton et al., 2020).
 
 ```java
