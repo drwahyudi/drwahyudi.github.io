@@ -42,7 +42,7 @@ var colorizedVis = {
   ],
 };
 // Let's centre the map view over the area
-Map.centerObject(moh, 11);
+Map.centerObject(ROI, 11);
 Map.addLayer(ndvi_crop, colorizedVis, 'NDVI');
 ```
 
