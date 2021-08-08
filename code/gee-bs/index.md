@@ -47,6 +47,15 @@ Map.addLayer(ndvi_crop, colorizedVis, 'NDVI');
 ```
 
 
+Create series of 'feature' rectangles that goes from the outlet of the channel, all the way upstream.
+Each 'feature' properties must be set as:
+
+Import as: Feature
+Property: Label
+Value: n (0,1,2,...)
+
+
+
 Next, let's explore and import the Sentinel-1 data. We are going to use the VV polarisation since it demonstrated best response for channel bed roughness analysis (Purinton et al., 2020).
 
 ```java
