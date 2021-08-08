@@ -143,6 +143,17 @@ var plot54 = ui.Chart.image.regions(
 print('bs54',plot54);
 ```
 
+
+Go to console, and expand the chart by clicking the arrow on the top-right of the chart.
+
+<img src="/images/gee_chart.JPG" alt="Alt text"/>
+
+
+Download the backscatter value as CSV file.
+
+<img src="/images/csv.JPG" alt="Alt text"/>
+
+
 Plot the results in R
 
 ```R
