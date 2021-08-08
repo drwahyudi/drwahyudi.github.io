@@ -142,3 +142,23 @@ var plot54 = ui.Chart.image.regions(
 // Display the chart.
 print('bs54',plot54);
 ```
+
+Plot the results in R
+
+```R
+#mohand south backscattering
+bs = read.csv("bsmohand54.csv",TRUE,",")
+head(bs)
+ggplot(data = bs, mapping = aes(x = win, y = med, ymin = min, ymax = max, color = pixel_count)) + 
+  geom_pointrange(size = 0.2) + 
+  geom_smooth(alpha = .07, lwd = 0.05, span = 0.35, color="black") +
+  scale_x_reverse() +
+  labs(y=expression(Backscatter~sigma^o~(db)), x = "Distance to outlet") +
+  theme_classic() +
+  scale_color_gradientn(colours = viridis(7)) +
+  theme(legend.position = c(0.8, 0.09),
+        legend.direction = "horizontal") +
+  labs(color = "Pixel count") +
+  ggsave("bsm54.svg", width = 20, height = 10, units = "cm", dpi = 500) +
+  ggsave("bsm54.jpg", width = 20, height = 10, units = "cm", dpi = 500)
+```
