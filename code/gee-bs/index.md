@@ -16,7 +16,7 @@ This is a template code for the backscatter for channel roughness analysis using
 
 
 
-<h2>Calculate the NDVI for slecting windows in determining radar bounce values</h2>
+<h3>Calculate the NDVI for slecting windows in determining radar bounce values</h3>
 
 
 First of all, generate an NDVI image which then will be draped above the Satellite image. This is to ensure that the polygons that we use in this analysis do not exceed the channel bank, hence resulting in distorded signal in radar bounce due to vegetation.
@@ -132,7 +132,7 @@ var optionsvv = {
 ```
 
 
-Generate the chart.
+Generate the chart of radar bounce values.
 
 ```java
 var plot54 = ui.Chart.image.regions(
@@ -141,6 +141,17 @@ var plot54 = ui.Chart.image.regions(
         .setOptions(optionsvv);
 // Display the chart.
 print('bs54',plot54);
+```
+
+Generate the chart to count pixels in every 'feature' window.
+```java
+//VV plot
+var plot541 = ui.Chart.image.regions(
+    subset, bs54, ee.Reducer.count(), 10, 'label')
+        .setChartType('LineChart')
+        .setOptions(optionsvv);
+// Display the chart.
+print('bs54 count',plot541);
 ```
 
 
