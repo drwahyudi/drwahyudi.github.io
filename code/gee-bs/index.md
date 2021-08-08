@@ -145,13 +145,12 @@ print('bs54',plot54);
 
 Generate the chart to count pixels in every 'feature' window.
 ```java
-//VV plot
-var plot541 = ui.Chart.image.regions(
+var plot54c = ui.Chart.image.regions(
     subset, bs54, ee.Reducer.count(), 10, 'label')
         .setChartType('LineChart')
         .setOptions(optionsvv);
 // Display the chart.
-print('bs54 count',plot541);
+print('bs54 count',plot54c);
 ```
 
 
