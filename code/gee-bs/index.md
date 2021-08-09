@@ -50,7 +50,7 @@ Active sensors:
 <img src="/images/bs.JPG" alt="Alt text"/>
 
 
-| Backscatter mechanism | :examples: |
+| Backscatter mechanism | Examples |
 | --------------------- | ----------- |
 | Smooth surface        | : e.g., open water, road |
 | Rough surface         | : e.g., deforested areas, agriculture |
