@@ -48,12 +48,12 @@ Active sensors:
 <h3>Backscattering mechanism</h3>
 
 <img src="/images/bs.JPG" alt="Alt text"/>
-|             |             |
+| Backscatter mechanism | examples |
 | ----------- | ----------- |
-| Smooth surface| : e.g., open water, road|
-| Rough surface| : e.g., deforested areas, agriculture|
-|Vegetation layer|: e.g., Trees canopy|
-|Double-bounce|: e.g., inundated area, buildings, structure|
+| Smooth surface | : e.g., open water, road |
+| Rough surface | : e.g., deforested areas, agriculture |
+| Vegetation layer | : e.g., Trees canopy |
+| Double-bounce | : e.g., inundated area, buildings, structure |
 
 <h3>Calculate the NDVI for slecting windows in determining radar bounce values</h3>
 
