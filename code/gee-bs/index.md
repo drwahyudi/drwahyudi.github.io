@@ -57,7 +57,9 @@ Active sensors:
 | Vegetation layer      | : e.g., Trees canopy |
 | Double-bounce         | : e.g., inundated area, buildings, structure |
 
-<h3>Calculate the NDVI for slecting windows in determining radar bounce values</h3>
+
+
+<h2>Using GEE for SAR backscatter analysis</h2>
 
 
 First of all, generate an NDVI image which then will be draped above the Satellite image. This is to ensure that the polygons that we use in this analysis do not exceed the channel bank, hence resulting in distorted signal in radar bounce due to vegetation.
