@@ -3,7 +3,7 @@ title: Radar backscatter derived channel roughness analysis
 layout: single
 classes: wide
 header:
-  image: /images/sar.jpg
+  image: /images/sar.gif
   
 ---
 
