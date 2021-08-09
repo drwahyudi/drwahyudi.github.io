@@ -2,7 +2,7 @@
 title: Radar backscatter derived channel roughness analysis
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 header:
   image: /images/gee.jpg
   
