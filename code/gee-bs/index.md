@@ -209,7 +209,7 @@ Download the backscatter value as CSV file.
 Plot the results in R
 
 ```R
-bs = read.csv("bsmohand54.csv",TRUE,",")
+bs = read.csv("(your_csv_file).csv",TRUE,",")
 head(bs)
 ggplot(data = bs, mapping = aes(x = win, y = med, ymin = min, ymax = max, color = pixel_count)) + 
   geom_pointrange(size = 0.2) + 
