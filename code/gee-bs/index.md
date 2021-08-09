@@ -22,11 +22,11 @@ This is a template code for the backscatter for channel roughness analysis using
 
 Passive sensors:
 * The source of radiant energy arises from natural source
-* E.g., the sun, Earth, other “hot” bodies
+* _e.g._, the sun, Earth, other “hot” bodies
 
 Active sensors:
 * Provide their own artificial radiant energy source
-* E.g., radar, Synthetic Aperture Radar (SAR), LiDAR
+* _e.g._, radar, Synthetic Aperture Radar (SAR), LiDAR
 
 <h3>Advantages and disadvantages of radar over optical remote sensing</h3>
 
@@ -52,10 +52,10 @@ Active sensors:
 
 | Backscatter mechanism | Examples |
 | --------------------- | ----------- |
-| Smooth surface        | : e.g., open water, road |
-| Rough surface         | : e.g., deforested areas, agriculture |
-| Vegetation layer      | : e.g., Trees canopy |
-| Double-bounce         | : e.g., inundated area, buildings, structure |
+| Smooth surface        | : _e.g._, open water, road |
+| Rough surface         | : _e.g._, deforested areas, agriculture |
+| Vegetation layer      | : _e.g._, Trees canopy |
+| Double-bounce         | : _e.g._, inundated area, buildings, structure |
 
 
 
