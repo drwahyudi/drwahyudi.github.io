@@ -14,7 +14,45 @@ header:
 
 This is a template code for the backscatter for channel roughness analysis using the _Google Earth Engine_. Please adjust it to your need. Or, you can go to  <a href="https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3">*https://code.earthengine.google.com/024619a64d82577f307f86798bcc1cc3*</a>.
 
+<h2>Introduction to backscatter analysis</h2>
 
+<h3>Active and passive remote sensing</h3>
+
+<img src="/images/rs.gif" alt="Alt text"/>
+
+Passive sensors:
+* The source of radiant energy arises from natural source
+* E.g., the sun, Earth, other “hot” bodies
+
+Active sensors:
+* Provide their own artificial radiant energy source
+* E.g., radar, Synthetic Aperture Radar (SAR), LiDAR
+
+<h3>Advantages and disadvantages of radar over optical remote sensing</h3>
+
+| Advantages                                                     	| Disadvantages                                                                      	|
+|----------------------------------------------------------------	|------------------------------------------------------------------------------------	|
+| Nearly all weather capability                                  	| Information content is different than optical and sometimes difficult to interpret 	|
+| Day or night capability                                        	| Speckle effects (graininess in the image)                                          	|
+| Penetration through the vegetation canopy                      	| Effect of topography                                                               	|
+| Penetration through the soil                                   	|                                                                                    	|
+| Minimal atmospheric effects                                    	|                                                                                    	|
+| Sensitivity to dielectric properties (liquid vs. frozen water) 	|                                                                                    	|
+| Sensitivity to structure                                       	|                                                                                    	|
+
+
+<h3>Electromagnetic spectrum</h3>
+
+<img src="/images/em.png" alt="Alt text"/>
+
+<h3>Backscattering mechanism</h3>
+
+<img src="/images/bs.JPG" alt="Alt text"/>
+
+|Smooth surface| : e.g., open water, road|
+|Rough surface|: e.g., deforested areas, agriculture|
+|Vegetation layer|: e.g., Trees canopy|
+|Double-bounce|: e.g., inundated area, buildings, structure|
 
 <h3>Calculate the NDVI for slecting windows in determining radar bounce values</h3>
 
