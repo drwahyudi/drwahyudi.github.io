@@ -48,7 +48,7 @@ Active sensors:
 <h3>Backscattering mechanism</h3>
 
 <img src="/images/bs.JPG" alt="Alt text"/>
-
+|---|---|
 |Smooth surface| : e.g., open water, road|
 |Rough surface|: e.g., deforested areas, agriculture|
 |Vegetation layer|: e.g., Trees canopy|
