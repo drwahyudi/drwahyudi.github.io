@@ -4,7 +4,7 @@ layout: single
 classes: wide
 header:
   image: /images/sar.gif
-  caption: SAR image of Nieuwe Maas & Waalhaven District, Roterdam, The Netherland. Source: CapellaSpace.com
+  caption: "SAR image of Nieuwe Maas & Waalhaven District, Roterdam, The Netherland. Source: CapellaSpace.com"
   
 ---
 
