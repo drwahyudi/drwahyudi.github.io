@@ -116,3 +116,65 @@ Lebih jauhnya lagi, atau spesifik nya lagi, akan bervariasi tergantung topiknya 
 <img src="/images/ielts/photo_2021-08-13_05-42-54.jpg" alt="Alt text"/>
 
 <img src="/images/ielts/photo_2021-08-13_05-44-20.jpg" alt="Alt text"/>
+
+
+<h1>TYPES OF QUESTIONS</h1>
+
+Ada pernyataan atau issue kemudian ada pertanyaan di bawah ini:
+
+Type 1 – Agree/Disagree
+(To what extent) do you agree or disagree?
+
+Type 2 - Problems/Causes/Solutions
+What problem does this cause?  What are the causes of this problem? 
+What are the effects of XYZ? What are some solutions? 
+What are other measures?
+*measure(s) = solution
+
+Yang Type 2 ini sebenarnya 3 tipe pertanyaan masing2 yah. Cuman mereka itu sering digabung, jadi misalnya:
+
+Issuenya blablabla
+What are the causes?
+What are the solutions?
+atau
+Issuenya blablabla
+What problems does this cause?
+What are the measures to solve this?
+dsb
+
+Type 3 – Both sides + own opinion
+Discuss both sides/views and give your own opinion.
+
+Type 4a - Advantages/Disadvantage
+What are the advantages and the disadvantages?
+
+Type 4b – Advantage/Disadvantage
+Do you think the advantages outweigh the disadvantages?
+
+Type 5 - Direct Question
+Why do you think people do X?
+What are the factors?
+Is this a positive or negative development?
+dan lainnya. Tapi biasanya yang di atas ini. 
+
+
+Kadang pertanyaannya dicampur, misalnya Type 1 and Type 2 digabung untuk 1 topik.
+
+<h2>10 Most Common Topics</h2>
+
+There are 10 general topics that come up more often than all of the rest put together. They are:
+
+Health
+Environment
+Education
+Development
+Globalisation
+Public Transport
+Criminal Justice
+Youth Crime
+Technology
+Government Spending
+
+source: IELTS Advantage, accessed 26 July 2021
+
+
