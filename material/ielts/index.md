@@ -112,3 +112,7 @@ Body paragraphs (2-4 paragraf, masing2 bisa 3-5 kalimat)
 Conclusion (1 aja, 1-2 kalimat aja)
 
 Lebih jauhnya lagi, atau spesifik nya lagi, akan bervariasi tergantung topiknya apa dan pertanyaannya kayak gimana, tipe pertanyaannya yang mana. Tapi kalau ada komponen yang kurang atau ngga ada, itu ngaruh yah ke nilai. Biasanya jd di bawah 6.0 😂
+
+<img src="/images/ielts/photo_2021-08-13_05-42-54.jpg" alt="Alt text"/>
+
+<img src="/images/ielts/photo_2021-08-13_05-44-20.jpg" alt="Alt text"/>
