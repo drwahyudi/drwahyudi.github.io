@@ -21,9 +21,9 @@ Prior to this, I conducted research in the *Frontal Himalayas* (Churia Range, Ne
 
 I use an integrated approach that combines:
 
-- 🛰️ Remote sensing (InSAR, optical imagery)
-- 🧪 Geochronology (¹⁰Be exposure dating, Optically Stimulated Luminescence)
-- 🗺️ Topographic and geomorphic analysis (river and ridgetop profiles)
-- 📊 GIS and spatial modelling
+- Remote sensing (InSAR, optical imagery)
+- Geochronology (¹⁰Be exposure dating, Optically Stimulated Luminescence)
+- Topographic and geomorphic analysis (river and ridgetop profiles)
+- GIS and spatial modelling
 
-Beyond my research, I’m motivated by the real-world applications of geoscience — from seismic hazard assessment to sustainable land use. I’m always open to collaboration, outreach, and interdisciplinary work that connects science with society.
+Beyond my research, I’m motivated by the real-world applications of geoscience - from seismic hazard assessment to sustainable land use. I’m always open to collaboration, outreach, and interdisciplinary work that connects science with society.
