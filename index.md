@@ -13,7 +13,7 @@ header:
     #  url: "https://drwahyudi.github.io/cv"
 ---
 
-<h2>Land surface dynamics MPhil student at the University of Edinburgh</h2>
+<h2>Land surface dynamics PhD candidate at the University of Edinburgh</h2>
 
 I’m a geoscientist passionate about understanding Earth's dynamic systems — from mountain building and landscape evolution to fault deformation and sediment transport. My current PhD research at the **University of Edinburgh**, supported by the **British Geological Survey** and **Indonesia Endowment Fund for Education**, focuses on active tectonics along the *Palu-Koro and Matano Faults* in *Indonesia*. I use a multi-timescale approach combining InSAR, cosmogenic nuclide dating (¹⁰Be), and geomorphic analysis to study crustal deformation and erosion.
 
